@@ -1,0 +1,73 @@
+*{
+    background: black;
+}
+
+#caja{
+    width: 280px;
+    height: 600px;
+    margin: 10px auto;
+    border-radius: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border: 1px solid white;
+
+    
+}
+
+.num{
+    font-size: 50px;
+    color: white;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.vuelta{
+    display: inline-block;
+    color:rgb(255, 255, 255, .5);
+    text-align: center;
+    margin-left: 10px;
+    height: 80px;
+    width: 80px;
+    border-radius: 50px ;
+    background: rgb(255, 255, 255, .2);
+    
+}
+
+
+.inicio{
+    color: rgba(0, 255, 21, 0.7);
+    display: block;
+    float: right;
+    text-align: center;
+    margin-right: 10px;
+    height: 80px;
+    width: 80px;
+    border-radius: 50px ;
+    background:rgba(0, 255, 21, 0.2);
+    
+   
+}
+
+
+
+.parar{
+    display: block;
+    margin: 0px  auto 20px;
+    text-align: center;
+    height: 80px;
+    width: 80px;
+    border-radius: 50px ;
+    color:rgba(255, 0, 0, 0.7);
+    background: rgba(255, 0, 0, 0.2);
+}
+
+#vuel{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+
+#vu{
+    overflow: auto;
+    height: 200px;
+}
