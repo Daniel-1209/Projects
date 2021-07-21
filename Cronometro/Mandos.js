@@ -6,10 +6,10 @@ let mat = document.getElementsByClassName("l");
 
 const vuelta = () => {
     con++;
-    q = con*3;
-    let l3 =  mat[0+q];
-    let l2 =  mat[1+q];
-    let l1 =  mat[2+q];
+    q = (con * 3);
+    let l3 =  mat[(0 + q)];
+    let l2 =  mat[(1 + q)];
+    let l1 =  mat[(2 + q)];
    
     if (mils < 10) {
         l1.innerHTML = ".0" + mils;
