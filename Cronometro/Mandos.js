@@ -54,7 +54,7 @@ const para = () => {
     ini();
 }
 
-const ini = () => {
+const ini = (elemento) => {
 
     if ( elemento.value === 'Inicio') {
         clearInterval(cronometro);
