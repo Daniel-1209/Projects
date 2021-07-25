@@ -1,0 +1,38 @@
+{
+  "people" : [
+    {
+      "id": 1,
+      "name": "Alejandro",
+      "lastname": "Garcia Guillen",
+      "address": {
+        "street": "Millet",
+        "number": "17"
+      },
+      "hobbies": ["Futbol", "Videojuegos"]
+    },
+    {
+      "id": 2,
+      "name": "Daniel",
+      "lastname": "Garcia Mendoza",
+      "address": null,
+      "hobbies": ["Basketbol", "Running"]
+    },
+    {
+      "id": 3,
+      "name": "Daniela",
+      "lastname": "Garcia Juarez",
+      "address": null,
+      "hobbies": ["Diving","Running"]
+    }
+  ],
+  "companies": [
+    {
+      "name": "X company",
+      "people": [2]
+    },
+    {
+      "name": "Y company",
+      "people": [1]
+    }
+  ]
+}
