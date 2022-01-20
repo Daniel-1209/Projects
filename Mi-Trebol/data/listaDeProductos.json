@@ -1,0 +1,170 @@
+[
+ {
+  "id": 0,
+  "title": "Aceite de Aguacate",
+  "shortdescription": "Producto 100% orgánico - 150ml",
+  "longDescription": "Texto con la información general del producto",
+  "price": 100,
+  "class": "Belleza",
+  "purchases": 20,
+  "ratings": 315,
+  "imgs": [
+   "aceite_aguacate_rev.png"
+  ]
+ },
+ {
+  "id": 1,
+  "title": "Velas florales",
+  "shortdescription": "Set de 4 velas con pétalos naturales",
+  "longDescription": "Texto con la información general del producto",
+  "price": 539.99,
+  "class": "velas",
+  "purchases": 200,
+  "ratings": 400,
+  "imgs": [
+   "velas_rev.png"
+  ]
+ },
+ {
+  "id": 2,
+  "title": "Portavela",
+  "shortdescription": "Concreto - 15cm",
+  "longDescription": "Texto con la información general del producto",
+  "price": 179.85,
+  "class": "velas",
+  "purchases": 10,
+  "ratings": 324,
+  "imgs": [
+   "portavela_rev.png"
+  ]
+ },
+ {
+  "id": 3,
+  "title": "Kit de viaje",
+  "shortdescription": "Tres frascos para viaje",
+  "longDescription": "Texto con la información general del producto",
+  "price": 399.99,
+  "class": "Belleza",
+  "purchases": 34,
+  "ratings": 350,
+  "imgs": [
+   "frascos_rev.png"
+  ]
+ },
+ {
+  "id": 4,
+  "title": "Vela de rosas",
+  "shortdescription": "Velas con aromas florales",
+  "longDescription": "Delicioso aroma rosas silvestres",
+  "price": 250.5,
+  "class": "velas",
+  "purchases": 10,
+  "ratings": 324,
+  "imgs": [
+   "vela_1.jpg"
+  ]
+ },
+ {
+  "id": 5,
+  "title": "Vela Navideña",
+  "shortdescription": "Vela de temporada",
+  "longDescription": "Delicioso aroma a ponche",
+  "price": 179.85,
+  "class": "velas",
+  "purchases": 10,
+  "ratings": 324,
+  "imgs": [
+   "vela_navidegna.jpeg"
+  ]
+ },
+ {
+  "id": 6,
+  "title": "Shampoo ",
+  "shortdescription": "Shampoo ",
+  "longdescription": "Shampoo Narural de diferentes productos",
+  "class": "Belleza",
+  "price": "100",
+  "imgs": [
+   "Product-1640160114191.jpeg"
+  ],
+  "ratings": 0
+ },
+ {
+  "id": 7,
+  "idUser": 4,
+  "title": "sesiones 1",
+  "shortdescription": "temático 1",
+  "longdescription": "axul cielo",
+  "class": "Belleza",
+  "price": "30303",
+  "imgs": [
+   "4-1640455914878.JPG",
+   "4-1640455914915.JPG",
+   "4-1640455914964.JPG"
+  ],
+  "ratings": 0
+ },
+ {
+  "id": 8,
+  "idUser": 4,
+  "title": "prueba ejs",
+  "shortdescription": "pruebs",
+  "longdescription": "knl",
+  "class": "Belleza",
+  "price": "11000",
+  "imgs": [
+   "4-1640470372556.JPG",
+   "4-1640470372649.JPG",
+   "4-1640470372730.JPG"
+  ],
+  "ratings": 0
+ },
+ {
+  "id": 9,
+  "idUser": 4,
+  "title": "prueba ejs",
+  "shortdescription": "pruebs",
+  "longdescription": "knl",
+  "class": "Belleza",
+  "price": "11000",
+  "imgs": [
+   "4-1640471368562.JPG",
+   "4-1640471368665.JPG",
+   "4-1640471368730.JPG"
+  ],
+  "ratings": 0
+ },
+ {
+  "id": 10,
+  "idUser": 4,
+  "title": "prueba error",
+  "shortdescription": "sin imagen",
+  "longdescription": "no image",
+  "class": "Belleza",
+  "price": "1000",
+  "imgs": [],
+  "ratings": 0
+ },
+ {
+  "id": 11,
+  "idUser": 4,
+  "title": "error image",
+  "shortdescription": "plm",
+  "longdescription": "l",
+  "class": "Belleza",
+  "price": "20000",
+  "imgs": [],
+  "ratings": 0
+ },
+ {
+  "id": 12,
+  "idUser": 4,
+  "title": "error image",
+  "shortdescription": "plm",
+  "longdescription": "l",
+  "class": "Belleza",
+  "price": "20000",
+  "imgs": [],
+  "ratings": 0
+ }
+]

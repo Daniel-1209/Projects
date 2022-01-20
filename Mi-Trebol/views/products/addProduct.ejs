@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <%- include('../partials/head') %>
+    <link rel="stylesheet" href="/css/addProduct.css" />
+    <title>añadirproducto</title>
+</head>
+
+<body>
+  <!-- Cabecera de la pagina-->
+  <%- include('../partials/header') %>
+
+    <div class="form-container">
+      <form action="/indexVendedor/create" method="POST" enctype="multipart/form-data">
+        <div class="formsheader">
+          <h2 class="titulo">Añadir producto</h2>
+        </div>
+        <div class="input">
+          <div>
+            <label class="label-text" for="title">Nombre del producto</label>
+            <input placeholder="" type="text" name="title" required id="text" />
+          </div>
+          <div>
+            <label class="label-text" for="title">Descripción corta</label>
+            <textarea type="text" name="shortdescription" required id="text2"></textarea>
+          </div>
+          <div>
+            <label class="label-text" for="title">Descripción larga</label>
+            <textarea type="text" name="longdescription" required id="text3"></textarea>
+          </div>
+        </div>
+        <div id="filepriceandselectors">
+
+          <label for="image">
+            Seleccionar archivo >
+          </label>
+          <input class="select-file" type="file" name="image" id="" multiple>
+
+          <div id="selectors">
+            <%- include('../partials/categories') %>
+          </div>
+        </div>
+        <div class="row">
+          <div class="price">
+            <label class="label-text" for="price"> Precio </label>
+            <div class="wrapper">
+              <span>$</span>
+              <input type="number" name="price" id="priceInput" />
+            </div>
+          </div>
+          <div>
+            <button type="submit">
+              Guardar Producto<span class="plus-icon">+</span>
+            </button>
+          </div>
+        </div>
+      </form>
+    </div>
+
+    <!-- Pie de la pagina-->
+
+    <%- include('../partials/footer') %>
+</body>
+
+</html>

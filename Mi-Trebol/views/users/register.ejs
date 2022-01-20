@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <%- include('../partials/head') %>
+        <link rel="stylesheet" href="/css/register.css">
+        <title>Registro</title>
+    </head>
+    <body>
+        
+         <!-- Cabecera de la pagina-->
+        <%- include('../partials/header') %>
+
+        <main>
+            <div class="form-container">
+                <form action="/users/register" method="POST" enctype="multipart/form-data">
+                    <div class="head-register"> 
+                        <h3>Registro</h3>
+                    </div>
+                    <div class="input">
+                        <input placeholder="Usuario" type="text" name="user" required id="user">
+                        <input placeholder="Nombre" type="text" name="firstName" required id="nombre">
+                        <input placeholder="Apellido" type="text" name="lastName" required id="apellido">
+                        <input placeholder="Email" type="email" name="email" required id="email">
+                        <input placeholder="Contraseña" type="password" name="password" required id="password" minlength="6">
+                        <input placeholder="Repetir contraseña" type="password" name="password_confirmation" required id="password_confirmation">
+                        <div>
+                        <label for="category">Categoría</label> </div>
+                        <select name="category" id="category">
+                            <option value="Comprador">Comprador</option>
+                            <option value="Vendedor">Vendedor</option>
+                        </select>
+                        <div>
+                            <label>Foto de perfil</label></div>
+                            <input type="file" name="avatar" id="file" single/>
+                        </div>
+                    <div class="button">
+                        <button type="submit">Registrarme</button>
+                    </div>
+                    </div>
+                </form>
+        </main>
+        
+        <%- include('../partials/footer') %>
+    </body>
+</html>
