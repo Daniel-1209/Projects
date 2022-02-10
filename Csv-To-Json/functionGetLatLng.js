@@ -19,7 +19,7 @@ const jsonFile = JSON.parse(fs.readFileSync(jsonFilePath, "utf-8"));
 const getLatLong = async () => {
   for (let i = 1500 ; i < jsonFile.length ; i++) {
     try{
-      const response = await axios.get(`https://maps.googleapis.com/maps/api/geocode/json?address=colonia ${jsonFile[i].DescripcionColonia}, Santiago de Queretaro, Qro.&key=AIzaSyD1Ib8EJd24LI8wb7D_fgt_dTFKKPW8ABY`);
+      const response = await axios.get(`https://maps.googleapis.com/maps/api/geocode/json?address=colonia ${jsonFile[i].DescripcionColonia}, Santiago de Queretaro, Qro.&key=`);
       
       // console.log(response.data.results[0].geometry.location);
       jsonFile[i].latitud = response.data.results[0].geometry.location.lat;

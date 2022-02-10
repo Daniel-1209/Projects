@@ -17,7 +17,7 @@ let colonias = [
 function getLatLong() {
   axios
     .get(
-      `https://maps.googleapis.com/maps/api/geocode/json?address=colonia ${colonias[0].DescripcionColonia}, ${colonias[0].DescripcionDelegacion},Queretaro&key=AIzaSyD1Ib8EJd24LI8wb7D_fgt_dTFKKPW8ABY`
+      `https://maps.googleapis.com/maps/api/geocode/json?address=colonia ${colonias[0].DescripcionColonia}, ${colonias[0].DescripcionDelegacion},Queretaro&key=`
     )
     .then((response) => {
       console.log(response.data.results[0].geometry.location);
