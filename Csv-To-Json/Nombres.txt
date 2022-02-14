@@ -1,0 +1,17 @@
+
+
+director -> Rector_name
+
+
+
+
+calle -> street
+
+estado -> state
+
+colonia -> City
+
+delegacion -> locality
+
+municipio -> municipality
+

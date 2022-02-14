@@ -1,0 +1,2222 @@
+[
+  {
+    "id": 4,
+    "attributes": {
+      "name": "SEC. COMUNITARIA EL HERRERO",
+      "gob_key": "22KTV0008J",
+      "rector_name": "",
+      "phone_number": "442 -238 -6000",
+      "street_address": "CONOCIDO, HERRERO",
+      "state_address": "QUERETARO",
+      "city_address": "HERRERO",
+      "locality_address": "SANTA ROSA JAUREGUI",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.758694,
+      "longitude_address": -100.555301,
+      "education_level": "secundaria",
+      "email": "",
+      "createdAt": "2022-02-11T16:28:51.760Z",
+      "updatedAt": "2022-02-11T16:28:51.760Z"
+    }
+  },
+  {
+    "id": 5,
+    "attributes": {
+      "name": "SEC. GRAL. ANEXA A LA NORMAL DEL ESTADO",
+      "gob_key": "22EES0001Z",
+      "rector_name": "",
+      "phone_number": "442 249 86 97",
+      "street_address": "AVENIDA 24 S/N",
+      "state_address": "QUERETARO",
+      "city_address": "PRESIDENTES",
+      "locality_address": "JOSEFA VERGARA Y HERNÁNDEZ",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.567275,
+      "longitude_address": -100.384906,
+      "education_level": "secundaria",
+      "email": "esaeneq@hotmail.com",
+      "createdAt": "2022-02-11T16:28:52.187Z",
+      "updatedAt": "2022-02-11T16:28:52.187Z"
+    }
+  },
+  {
+    "id": 6,
+    "attributes": {
+      "name": "CONAFE LA ESTANCIA DE PALO DULCE",
+      "gob_key": "22KTV0042Q",
+      "rector_name": "",
+      "phone_number": "",
+      "street_address": "CONOCIDO",
+      "state_address": "QUERETARO",
+      "city_address": "ESTANCIA DE PALO DULCE",
+      "locality_address": "SANTA ROSA JAUREGUI",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.863624,
+      "longitude_address": -100.479063,
+      "education_level": "secundaria",
+      "email": "",
+      "createdAt": "2022-02-11T16:30:26.621Z",
+      "updatedAt": "2022-02-11T16:30:26.621Z"
+    }
+  },
+  {
+    "id": 9,
+    "attributes": {
+      "name": "SEC. GRAL. ARQUELES VELA",
+      "gob_key": "22DES0038O",
+      "rector_name": "",
+      "phone_number": "442-243-22-42",
+      "street_address": "LAGRIMAS NO. 701",
+      "state_address": "QUERETARO",
+      "city_address": "LOMAS DE SAN PEDRITO",
+      "locality_address": "EPIGMENIO GONZALEZ FLORES",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.650047,
+      "longitude_address": -100.403717,
+      "education_level": "secundaria",
+      "email": "arqueles_vela@hotmail.com  22DEF0038O@USEBEQ.EDU.MX",
+      "createdAt": "2022-02-11T16:30:27.591Z",
+      "updatedAt": "2022-02-11T16:30:27.591Z"
+    }
+  },
+  {
+    "id": 10,
+    "attributes": {
+      "name": "SEC. GRAL. CEDART IGNACIO MARIANO DE LAS CASAS",
+      "gob_key": "22DAR0004C",
+      "rector_name": "",
+      "phone_number": "442 1531970",
+      "street_address": "CIRCUITO PLAN VIDA NO. 116",
+      "state_address": "QUERETARO",
+      "city_address": "CENTRO SUR",
+      "locality_address": "JOSEFA VERGARA Y HERNÁNDEZ",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.576372,
+      "longitude_address": -100.363027,
+      "education_level": "secundaria",
+      "email": "agblancas@inba.gob.mx cimc.bachillerato@inba.gob.mx \r\n cimc.secundaria@inba.gob.mx ",
+      "createdAt": "2022-02-11T16:30:28.261Z",
+      "updatedAt": "2022-02-11T16:30:28.261Z"
+    }
+  },
+  {
+    "id": 11,
+    "attributes": {
+      "name": "SEC. GRAL. EPIGMENIO GONZALEZ",
+      "gob_key": "22DES0047W",
+      "rector_name": "",
+      "phone_number": "442-243-1733",
+      "street_address": "TLATELOLCO S/N ESQ. TURMALINA",
+      "state_address": "QUERETARO",
+      "city_address": "VILLAS DE SANTIAGO",
+      "locality_address": "EPIGMENIO GONZALEZ FLORES",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.651216,
+      "longitude_address": -100.39435,
+      "education_level": "secundaria",
+      "email": "22des0047w@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:28.694Z",
+      "updatedAt": "2022-02-11T16:30:28.694Z"
+    }
+  },
+  {
+    "id": 12,
+    "attributes": {
+      "name": "SEC. GRAL. ESPERANZA CABRERA",
+      "gob_key": "22DES0053G",
+      "rector_name": "",
+      "phone_number": "442 257 2407",
+      "street_address": "MONTE PARMASO # 507",
+      "state_address": "QUERETARO",
+      "city_address": "LA LOMA",
+      "locality_address": "FELIX OSORES SOTOMAYOR",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.64279742660592,
+      "longitude_address": -100.47305866021583,
+      "education_level": "secundaria",
+      "email": "sec.gral.esperanza.cabrera@gmail.com",
+      "createdAt": "2022-02-11T16:30:29.038Z",
+      "updatedAt": "2022-02-11T16:30:29.038Z"
+    }
+  },
+  {
+    "id": 13,
+    "attributes": {
+      "name": "SEC. GRAL. FELIPE CARRILLO PUERTO",
+      "gob_key": "22DES0030W",
+      "rector_name": "",
+      "phone_number": "DIRECTOR 4422086316 ESCUELA 4421950022",
+      "street_address": "SOR JUANA INES DE LA CRUZ #215 ESQ. PLUTARCO ELIAS CALLES",
+      "state_address": "QUERETARO",
+      "city_address": "EL TINTERO",
+      "locality_address": "FELIPE CARRILLO PUERTO",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.611715,
+      "longitude_address": -100.437908,
+      "education_level": "secundaria",
+      "email": "22des0030w@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:29.417Z",
+      "updatedAt": "2022-02-11T16:30:29.417Z"
+    }
+  },
+  {
+    "id": 14,
+    "attributes": {
+      "name": "SEC. GRAL. JESUS ROMERO FLORES",
+      "gob_key": "22DES0024L",
+      "rector_name": "",
+      "phone_number": "442 788 38 78",
+      "street_address": "CALLE SEGUNDO JÓN DE LA SACA",
+      "state_address": "QUERETARO",
+      "city_address": "SECCIÓN SUROESTE DE COLONIA SANTA BÁRBARA",
+      "locality_address": "",
+      "municipality_address": "CORREGIDORA",
+      "latitude_address": 20.527956,
+      "longitude_address": -100.434179,
+      "education_level": "secundaria",
+      "email": "",
+      "createdAt": "2022-02-11T16:30:29.814Z",
+      "updatedAt": "2022-02-11T16:30:29.814Z"
+    }
+  },
+  {
+    "id": 15,
+    "attributes": {
+      "name": "SEC. GRAL. JOSE  VASCONCELOS",
+      "gob_key": "22DES0013F",
+      "rector_name": "",
+      "phone_number": "442 246 6027 y 442-470-35-64",
+      "street_address": "UNIDAD DEPORTIVA S/N",
+      "state_address": "QUERETARO",
+      "city_address": "CHICHIMEQUILLAS",
+      "locality_address": "",
+      "municipality_address": "EL MARQUES",
+      "latitude_address": 20.763978,
+      "longitude_address": -100.33728,
+      "education_level": "secundaria",
+      "email": "",
+      "createdAt": "2022-02-11T16:30:30.149Z",
+      "updatedAt": "2022-02-11T16:30:30.149Z"
+    }
+  },
+  {
+    "id": 16,
+    "attributes": {
+      "name": "SEC. GRAL. JOSE CLEMENTE OROZCO",
+      "gob_key": "22DES0032U",
+      "rector_name": "",
+      "phone_number": "442-299-3419",
+      "street_address": "FRESNO 100",
+      "state_address": "QUERETARO",
+      "city_address": "MARAVILLAS",
+      "locality_address": "LOS OLVERA",
+      "municipality_address": "CORREGIDORA",
+      "latitude_address": 20.537957,
+      "longitude_address": -100.398797,
+      "education_level": "secundaria",
+      "email": "adela@hotmail.com",
+      "createdAt": "2022-02-11T16:30:30.457Z",
+      "updatedAt": "2022-02-11T16:30:30.457Z"
+    }
+  },
+  {
+    "id": 17,
+    "attributes": {
+      "name": "SEC. GRAL. JOSE MA. MORELOS Y PAVON",
+      "gob_key": "22DES0022N",
+      "rector_name": "",
+      "phone_number": "4424691131 Director  4426384133 T. S. Liliana Montes.",
+      "street_address": "DOM. CONOCIDO",
+      "state_address": "QUERETARO",
+      "city_address": "BUENAVISTA",
+      "locality_address": "SANTA ROSA JAUREGUI",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.825942,
+      "longitude_address": -100.467796,
+      "education_level": "secundaria",
+      "email": "22DES0022N@USEBEQ.EDU.MX       secbuenavistaqro@hotmail.com",
+      "createdAt": "2022-02-11T16:30:30.785Z",
+      "updatedAt": "2022-02-11T16:30:30.785Z"
+    }
+  },
+  {
+    "id": 18,
+    "attributes": {
+      "name": "SEC. GRAL. JOSEFINA NOVA DE GONZALEZ",
+      "gob_key": "22DES0021O",
+      "rector_name": "",
+      "phone_number": "442 191 88 60",
+      "street_address": "LAS CANOAS S/N",
+      "state_address": "QUERETARO",
+      "city_address": "HERCULES",
+      "locality_address": "CAYETANO RUBIO",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.601435,
+      "longitude_address": -100.35384,
+      "education_level": "secundaria",
+      "email": "secgeneraljosefinanova@hotmail.com",
+      "createdAt": "2022-02-11T16:30:31.062Z",
+      "updatedAt": "2022-02-11T16:30:31.062Z"
+    }
+  },
+  {
+    "id": 19,
+    "attributes": {
+      "name": "SEC. GRAL. LAS AMERICAS",
+      "gob_key": "22DES0026J",
+      "rector_name": "",
+      "phone_number": "442-220-5973",
+      "street_address": "PLAYA RINCON NO 104",
+      "state_address": "QUERETARO",
+      "city_address": "SAN PABLO I",
+      "locality_address": "EPIGMENIO GONZALEZ FLORES",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.625768,
+      "longitude_address": -100.407668,
+      "education_level": "secundaria",
+      "email": "esc_sec1987@hotmail.com",
+      "createdAt": "2022-02-11T16:30:31.365Z",
+      "updatedAt": "2022-02-11T16:30:31.365Z"
+    }
+  },
+  {
+    "id": 20,
+    "attributes": {
+      "name": "SEC. GRAL. LUIS DONALDO COLOSIO",
+      "gob_key": "22DES0049U",
+      "rector_name": "",
+      "phone_number": "442-403-5525",
+      "street_address": "MONTE PARNASO S/N",
+      "state_address": "QUERETARO",
+      "city_address": "LA LOMA",
+      "locality_address": "FELIX OSORES SOTOMAYOR",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.642041,
+      "longitude_address": -100.473082,
+      "education_level": "secundaria",
+      "email": "22des0049u@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:31.661Z",
+      "updatedAt": "2022-02-11T16:30:31.661Z"
+    }
+  },
+  {
+    "id": 21,
+    "attributes": {
+      "name": "SEC. GRAL. MARIANO MATAMOROS",
+      "gob_key": "22DES0009T",
+      "rector_name": "",
+      "phone_number": "442-291-0256",
+      "street_address": "PRIV. CORREGIDORA S/N",
+      "state_address": "QUERETARO",
+      "city_address": "SANTA ROSA JAUREGUI",
+      "locality_address": "SANTA ROSA JAUREGUI",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.738235,
+      "longitude_address": -100.444218,
+      "education_level": "secundaria",
+      "email": "mm22des0009t@gmail.com",
+      "createdAt": "2022-02-11T16:30:31.963Z",
+      "updatedAt": "2022-02-11T16:30:31.963Z"
+    }
+  },
+  {
+    "id": 22,
+    "attributes": {
+      "name": "SEC. GRAL. NO. 1 CONSTITUCION DE 1917",
+      "gob_key": "22DES0001A",
+      "rector_name": "",
+      "phone_number": "442-216-3100",
+      "street_address": "PROL HIDALGO S/N",
+      "state_address": "QUERETARO",
+      "city_address": "NIÑOS HEROES",
+      "locality_address": "CENTRO HISTORICO",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.589957,
+      "longitude_address": -100.408798,
+      "education_level": "secundaria",
+      "email": "secgral1qro@hotmail.com 22des0001a@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:32.337Z",
+      "updatedAt": "2022-02-11T16:30:32.337Z"
+    }
+  },
+  {
+    "id": 23,
+    "attributes": {
+      "name": "SEC. GRAL. NO. 11 RICARDO FLORES MAGON",
+      "gob_key": "22DES0033T",
+      "rector_name": "",
+      "phone_number": "442-217-4028",
+      "street_address": "PROL. INVIERNO S/N.",
+      "state_address": "QUERETARO",
+      "city_address": "LA POPULAR",
+      "locality_address": "CENTRO HISTORICO",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.611251,
+      "longitude_address": -100.397556,
+      "education_level": "secundaria",
+      "email": "22def0033@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:32.598Z",
+      "updatedAt": "2022-02-11T16:30:32.598Z"
+    }
+  },
+  {
+    "id": 24,
+    "attributes": {
+      "name": "SEC. GRAL. NO. 2 MARIANO ESCOBEDO",
+      "gob_key": "22DES0008U",
+      "rector_name": "",
+      "phone_number": "4426418576",
+      "street_address": "PROLONGACION CORREGIDORA NORTE NO. 471",
+      "state_address": "QUERETARO",
+      "city_address": "LINDA VISTA",
+      "locality_address": "CENTRO HISTORICO",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.605949,
+      "longitude_address": -100.389601,
+      "education_level": "secundaria",
+      "email": "22des0008u@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:32.911Z",
+      "updatedAt": "2022-02-11T16:30:32.911Z"
+    }
+  },
+  {
+    "id": 25,
+    "attributes": {
+      "name": "SEC. GRAL. NO. 3 PRIMERO DE SEPTIEMBRE DE 1982",
+      "gob_key": "22DES0010I",
+      "rector_name": "",
+      "phone_number": "442-213-3444",
+      "street_address": "AV. PROFESORES S/N",
+      "state_address": "QUERETARO",
+      "city_address": "LAS PALMAS",
+      "locality_address": "CENTRO HISTORICO",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.585242,
+      "longitude_address": -100.373891,
+      "education_level": "secundaria",
+      "email": "sec3_1sep1982@hotmail.com",
+      "createdAt": "2022-02-11T16:30:33.286Z",
+      "updatedAt": "2022-02-11T16:30:33.286Z"
+    }
+  },
+  {
+    "id": 26,
+    "attributes": {
+      "name": "SEC. GRAL. NO. 4 BENITO JUAREZ",
+      "gob_key": "22DES0014E",
+      "rector_name": "",
+      "phone_number": "442-209-1316",
+      "street_address": "CALLE 37 S/N",
+      "state_address": "QUERETARO",
+      "city_address": "LOMAS DE CASA BLANCA",
+      "locality_address": "JOSEFA VERGARA Y HERNÁNDEZ",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.562217,
+      "longitude_address": -100.393877,
+      "education_level": "secundaria",
+      "email": "22def0014e@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:33.666Z",
+      "updatedAt": "2022-02-11T16:30:33.666Z"
+    }
+  },
+  {
+    "id": 27,
+    "attributes": {
+      "name": "SEC. GRAL. NO. 5 DANIEL ORTIZ ESQUIVEL",
+      "gob_key": "22DES0020P",
+      "rector_name": "",
+      "phone_number": "442-217-2958",
+      "street_address": "PROL. INVIERNO NO. 35",
+      "state_address": "QUERETARO",
+      "city_address": "LA POPULAR",
+      "locality_address": "CENTRO HISTORICO",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.610592,
+      "longitude_address": -100.397483,
+      "education_level": "secundaria",
+      "email": "22def0020p@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:34.046Z",
+      "updatedAt": "2022-02-11T16:30:34.046Z"
+    }
+  },
+  {
+    "id": 28,
+    "attributes": {
+      "name": "SEC. GRAL. NO. 8 ANDRES BALVANERA",
+      "gob_key": "22DES0027I",
+      "rector_name": "",
+      "phone_number": "442-215-7171",
+      "street_address": "PROL. HACIENDA LA ESTANCIA S/N",
+      "state_address": "QUERETARO",
+      "city_address": "LAS PLAZAS",
+      "locality_address": "JOSEFA VERGARA Y HERNÁNDEZ",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.562512,
+      "longitude_address": -100.417649,
+      "education_level": "secundaria",
+      "email": "sgobq@yahoo.com.mx",
+      "createdAt": "2022-02-11T16:30:34.394Z",
+      "updatedAt": "2022-02-11T16:30:34.394Z"
+    }
+  },
+  {
+    "id": 29,
+    "attributes": {
+      "name": "SEC. GRAL. QUETZALCOATL",
+      "gob_key": "22DES0011H",
+      "rector_name": "",
+      "phone_number": "442-484 66 41 y 442-788-3878",
+      "street_address": "EL PUEBLITO",
+      "state_address": "QUERETARO",
+      "city_address": "CORREGIDORA",
+      "locality_address": "",
+      "municipality_address": "CORREGIDORA",
+      "latitude_address": 20.546882,
+      "longitude_address": -100.441837,
+      "education_level": "secundaria",
+      "email": "v_feregrino@hotmail.com  maidalia@hotmail.com",
+      "createdAt": "2022-02-11T16:30:34.752Z",
+      "updatedAt": "2022-02-11T16:30:34.752Z"
+    }
+  },
+  {
+    "id": 30,
+    "attributes": {
+      "name": "SEC. GRAL. ROSARIO CASTELLANOS",
+      "gob_key": "22DES0012G",
+      "rector_name": "",
+      "phone_number": "442-213-9756",
+      "street_address": "EMILIANO ZAPATA #21",
+      "state_address": "QUERETARO",
+      "city_address": "LA CAÑADA",
+      "locality_address": "",
+      "municipality_address": "EL MARQUES",
+      "latitude_address": 20.612111,
+      "longitude_address": -100.324537,
+      "education_level": "secundaria",
+      "email": "rosariocastellanos@live.com.mx",
+      "createdAt": "2022-02-11T16:30:35.023Z",
+      "updatedAt": "2022-02-11T16:30:35.023Z"
+    }
+  },
+  {
+    "id": 31,
+    "attributes": {
+      "name": "SEC. GRAL. TALENTOS DEPORTIVOS",
+      "gob_key": "22DES0041B",
+      "rector_name": "",
+      "phone_number": "442-246-3075 y 442-110-1585",
+      "street_address": "AV. RIO TAMESIS S/N",
+      "state_address": "QUERETARO",
+      "city_address": "VILLAS DEL PARQUE",
+      "locality_address": "EPIGMENIO GONZALEZ FLORES",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.619805,
+      "longitude_address": -100.39321,
+      "education_level": "secundaria",
+      "email": "sec.talentos_deportivos@hotmai",
+      "createdAt": "2022-02-11T16:30:35.353Z",
+      "updatedAt": "2022-02-11T16:30:35.353Z"
+    }
+  },
+  {
+    "id": 32,
+    "attributes": {
+      "name": "SEC. GRAL. VALENTIN FRIAS Y FRIAS",
+      "gob_key": "22DES0051I",
+      "rector_name": "",
+      "phone_number": "442 2449111",
+      "street_address": "ANILLO VIAL # 3",
+      "state_address": "QUERETARO",
+      "city_address": "LOS HEROES",
+      "locality_address": "SALDARRIAGA",
+      "municipality_address": "EL MARQUES",
+      "latitude_address": 20.593724756677236,
+      "longitude_address": -100.27873146021665,
+      "education_level": "secundaria",
+      "email": "",
+      "createdAt": "2022-02-11T16:30:35.687Z",
+      "updatedAt": "2022-02-11T16:30:35.687Z"
+    }
+  },
+  {
+    "id": 33,
+    "attributes": {
+      "name": "SEC. TEC. NO. 1 BENITO JUAREZ",
+      "gob_key": "22DST0001T",
+      "rector_name": "",
+      "phone_number": "442-212-7966",
+      "street_address": "INGENIEROS #19",
+      "state_address": "QUERETARO",
+      "city_address": "LA ERA",
+      "locality_address": "CENTRO HISTORICO",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.59834,
+      "longitude_address": 100.405536,
+      "education_level": "secundaria",
+      "email": "22DST0001T@USEBEQ.EDU.MX                           TRABAJO SOCIAL MATUTINO: irais.rincong@usebeq.edu.mx\r\nTRABAJO SOCIAL VESPERTINO: gabriela.gonzalezh@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:35.965Z",
+      "updatedAt": "2022-02-11T16:30:35.965Z"
+    }
+  },
+  {
+    "id": 34,
+    "attributes": {
+      "name": "SEC. TEC. NO. 12 IGNACIO MANUEL ALTAMIRANO",
+      "gob_key": "22DST0012Z",
+      "rector_name": "",
+      "phone_number": "442-220-8048",
+      "street_address": "RIO MAYO S/N ESQUINA RIO GUAYMAS",
+      "state_address": "QUERETARO",
+      "city_address": "MENCHACA II",
+      "locality_address": "EPIGMENIO GONZALEZ FLORES",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.63861,
+      "longitude_address": -100.388625,
+      "education_level": "secundaria",
+      "email": "escsectec12@hotmail.com",
+      "createdAt": "2022-02-11T16:30:36.286Z",
+      "updatedAt": "2022-02-11T16:30:36.286Z"
+    }
+  },
+  {
+    "id": 35,
+    "attributes": {
+      "name": "SEC. TEC. NO. 14 RICARDO POZAS ARCINIEGA",
+      "gob_key": "22DST0014X",
+      "rector_name": "",
+      "phone_number": "442-218-7574",
+      "street_address": "POPOCATEPETL S/N",
+      "state_address": "QUERETARO",
+      "city_address": "POPOCATEPETL",
+      "locality_address": "SANTA ROSA JAUREGUI",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.645773,
+      "longitude_address": -100.450838,
+      "education_level": "secundaria",
+      "email": "22dst0014x@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:36.865Z",
+      "updatedAt": "2022-02-11T16:30:36.865Z"
+    }
+  },
+  {
+    "id": 36,
+    "attributes": {
+      "name": "SEC. TEC. NO. 16 JOSE MARIA LUIS MORA",
+      "gob_key": "22DST0016V",
+      "rector_name": "",
+      "phone_number": "442-228-9602",
+      "street_address": "CARRETERA A MOMPANI S/N",
+      "state_address": "QUERETARO",
+      "city_address": "TLACOTE EL BAJO",
+      "locality_address": "FELIPE CARRILLO PUERTO",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.668755,
+      "longitude_address": -100.507743,
+      "education_level": "secundaria",
+      "email": "22dft0016v@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:37.199Z",
+      "updatedAt": "2022-02-11T16:30:37.199Z"
+    }
+  },
+  {
+    "id": 37,
+    "attributes": {
+      "name": "SEC. TEC. NO. 22 MARTIN GONZALEZ VAZQUEZ",
+      "gob_key": "22DST0022F",
+      "rector_name": "",
+      "phone_number": "442-218-2703",
+      "street_address": "AV. DE LA LUZ Y AV. DE LA FUENTES S/N",
+      "state_address": "QUERETARO",
+      "city_address": "CERRITO COLORADO",
+      "locality_address": "FELIX OSORES SOTOMAYOR",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.63761,
+      "longitude_address": 100.452555,
+      "education_level": "secundaria",
+      "email": "22dst0022f@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:37.494Z",
+      "updatedAt": "2022-02-11T16:30:37.494Z"
+    }
+  },
+  {
+    "id": 38,
+    "attributes": {
+      "name": "SEC. TEC. NO. 25 EPIGMENIO GONZALEZ",
+      "gob_key": "22DST0025C",
+      "rector_name": "",
+      "phone_number": "442-245-0022",
+      "street_address": "AV. ASTEROIDES S/N",
+      "state_address": "QUERETARO",
+      "city_address": "BOLAÑOS",
+      "locality_address": "CAYETANO RUBIO",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.617359,
+      "longitude_address": -100.375294,
+      "education_level": "secundaria",
+      "email": "epigmenio.25@hotmail.com",
+      "createdAt": "2022-02-11T16:30:37.821Z",
+      "updatedAt": "2022-02-11T16:30:37.821Z"
+    }
+  },
+  {
+    "id": 39,
+    "attributes": {
+      "name": "SEC. TEC. NO. 26 CONSTITUYENTES DE QUERETARO",
+      "gob_key": "22DST0026B",
+      "rector_name": "",
+      "phone_number": "442-222-5930",
+      "street_address": "FIDEL VELAZQUEZ S/N",
+      "state_address": "QUERETARO",
+      "city_address": "LAZARO CARDENAS",
+      "locality_address": "JOSEFA VERGARA Y HERNÁNDEZ",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.559637,
+      "longitude_address": -100.375245,
+      "education_level": "secundaria",
+      "email": "alvaro.rojor@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:38.113Z",
+      "updatedAt": "2022-02-11T16:30:38.113Z"
+    }
+  },
+  {
+    "id": 40,
+    "attributes": {
+      "name": "SEC. TEC. NO. 27 RODOLFO VERA ZAPATA",
+      "gob_key": "22DST0027A",
+      "rector_name": "",
+      "phone_number": "442-215-4504",
+      "street_address": "PROL. PINO SUAREZ S/N",
+      "state_address": "QUERETARO",
+      "city_address": "EJIDO MODELO",
+      "locality_address": "FELIPE CARRILLO PUERTO",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.582433,
+      "longitude_address": -100.423003,
+      "education_level": "secundaria",
+      "email": "22dst0027a@usebeq.edu.mx  argelia.chavezm@usebeq.edu.mx (turno matutino)                     noe.larar@usebeq.edu.mx (turno vespertino",
+      "createdAt": "2022-02-11T16:30:38.392Z",
+      "updatedAt": "2022-02-11T16:30:38.392Z"
+    }
+  },
+  {
+    "id": 41,
+    "attributes": {
+      "name": "SEC. TEC. NO. 29 MIGUEL ANGEL BUONARROTI",
+      "gob_key": "22DST0029Z",
+      "rector_name": "",
+      "phone_number": "442-217-9644",
+      "street_address": "ROMA Y MADRID",
+      "state_address": "QUERETARO",
+      "city_address": "LOS SAUCES",
+      "locality_address": "FELIX OSORES SOTOMAYOR",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.627566,
+      "longitude_address": -100.444755,
+      "education_level": "secundaria",
+      "email": "22dst0029z@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:38.678Z",
+      "updatedAt": "2022-02-11T16:30:38.678Z"
+    }
+  },
+  {
+    "id": 42,
+    "attributes": {
+      "name": "SEC. TEC. NO. 33 JUAN ALDAMA",
+      "gob_key": "22DST0033L",
+      "rector_name": "",
+      "phone_number": "442 225 4001",
+      "street_address": "SAN FRANCISCO S/N",
+      "state_address": "QUERETARO",
+      "city_address": "LOS ANGELES",
+      "locality_address": "CENTRO HISTORICO",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.536356,
+      "longitude_address": -100.484492,
+      "education_level": "secundaria",
+      "email": "22dst0033l@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:38.969Z",
+      "updatedAt": "2022-02-11T16:30:38.969Z"
+    }
+  },
+  {
+    "id": 43,
+    "attributes": {
+      "name": "SEC. TEC. NO. 35 EDUARDO LOARCA CASTILLO",
+      "gob_key": "22DST0035J",
+      "rector_name": "",
+      "phone_number": "442-403-7532",
+      "street_address": "ERMITA S/N",
+      "state_address": "QUERETARO",
+      "city_address": "LA ESMERALDA",
+      "locality_address": "FELIX OSORES SOTOMAYOR",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.681956,
+      "longitude_address": -100.45482,
+      "education_level": "secundaria",
+      "email": "22dst0035j@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:39.274Z",
+      "updatedAt": "2022-02-11T16:30:39.274Z"
+    }
+  },
+  {
+    "id": 44,
+    "attributes": {
+      "name": "SEC. TEC. NO. 36 ANTONIO ACOSTA AGUAYO",
+      "gob_key": "22DST0036I",
+      "rector_name": "",
+      "phone_number": "442-199-2923",
+      "street_address": "TARAHUMARAS 600",
+      "state_address": "QUERETARO",
+      "city_address": "CERRITO COLORADO",
+      "locality_address": "FELIX OSORES SOTOMAYOR",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.635884,
+      "longitude_address": -100.466521,
+      "education_level": "secundaria",
+      "email": "",
+      "createdAt": "2022-02-11T16:30:39.581Z",
+      "updatedAt": "2022-02-11T16:30:39.581Z"
+    }
+  },
+  {
+    "id": 45,
+    "attributes": {
+      "name": "SEC. TEC. NO. 37 OCTAVIO PAZ",
+      "gob_key": "22DST0037H",
+      "rector_name": "",
+      "phone_number": "442-225-7820",
+      "street_address": "CORAL Y LADERA DE LAS FLORES S/N",
+      "state_address": "QUERETARO",
+      "city_address": "SAN PEDRO MARTIR",
+      "locality_address": "FELIX OSORES SOTOMAYOR",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.618829,
+      "longitude_address": -100.476118,
+      "education_level": "secundaria",
+      "email": "22dst0037h@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:39.898Z",
+      "updatedAt": "2022-02-11T16:30:39.898Z"
+    }
+  },
+  {
+    "id": 46,
+    "attributes": {
+      "name": "SEC. TEC. NO. 38 QUETZALATL",
+      "gob_key": "22DES0011H",
+      "rector_name": "",
+      "phone_number": "4423202369",
+      "street_address": "CARRETERA A PINTO S/N",
+      "state_address": "QUERETARO",
+      "city_address": "MONTENEGRO",
+      "locality_address": "SANTA ROSA JAUREGUI",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.546882,
+      "longitude_address": -100.441837,
+      "education_level": "secundaria",
+      "email": "22dst0038g@usebeq.edu.mx>\r\nCorreo de la trabajadora Social:\r\nMANUELA GONZALEZ LUNA <manuela.gonzalezl@usebeq.edu.mx>",
+      "createdAt": "2022-02-11T16:30:40.216Z",
+      "updatedAt": "2022-02-11T16:30:40.216Z"
+    }
+  },
+  {
+    "id": 47,
+    "attributes": {
+      "name": "SEC. TEC. NO. 6 JUAN ANTONIO DE URRUTIA Y ARANA",
+      "gob_key": "22DST0006O",
+      "rector_name": "",
+      "phone_number": "442-217-0903",
+      "street_address": "AV. FELIPE CARRILLO PUERTO S/N",
+      "state_address": "QUERETARO",
+      "city_address": "LA INDUSTRIAL",
+      "locality_address": "FELIX OSORES SOTOMAYOR",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.617194,
+      "longitude_address": -100.434111,
+      "education_level": "secundaria",
+      "email": "tecnica.6@live.com.mx",
+      "createdAt": "2022-02-11T16:30:40.565Z",
+      "updatedAt": "2022-02-11T16:30:40.565Z"
+    }
+  },
+  {
+    "id": 48,
+    "attributes": {
+      "name": "SEC. TEC. NO. 9 ORGANIZACION DE LAS NACIONES UNIDAS",
+      "gob_key": "22DST0009L",
+      "rector_name": "",
+      "phone_number": "442-222-1720",
+      "street_address": "AV. 36",
+      "state_address": "QUERETARO",
+      "city_address": "LOMAS DE CASA BLANCA",
+      "locality_address": "JOSEFA VERGARA Y HERNÁNDEZ",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.560976,
+      "longitude_address": -100.388609,
+      "education_level": "secundaria",
+      "email": "22dft009l@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:40.900Z",
+      "updatedAt": "2022-02-11T16:30:40.900Z"
+    }
+  },
+  {
+    "id": 49,
+    "attributes": {
+      "name": "TELESECUNDARIA ANDRES BALVANERA",
+      "gob_key": "22DTV0079U",
+      "rector_name": "",
+      "phone_number": "4421496566",
+      "street_address": "AV. VILLAS DEL MESON S/N",
+      "state_address": "QUERETARO",
+      "city_address": "JURIQUILLA",
+      "locality_address": "SANTA ROSA JAUREGUI",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.710324,
+      "longitude_address": -100.452456,
+      "education_level": "secundaria",
+      "email": "israel.angelesm@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:41.181Z",
+      "updatedAt": "2022-02-11T16:30:41.181Z"
+    }
+  },
+  {
+    "id": 50,
+    "attributes": {
+      "name": "TELESECUNDARIA ANGELA PERALTA",
+      "gob_key": "22DTV0013L",
+      "rector_name": "",
+      "phone_number": "442 238 6000",
+      "street_address": "CONOCIDO",
+      "state_address": "QUERETARO",
+      "city_address": "EL AHORCADO",
+      "locality_address": "EPIGMENIO GONZALEZ FLORES",
+      "municipality_address": "PEDRO ESCOBEDO",
+      "latitude_address": 20.551926,
+      "longitude_address": -100.172177,
+      "education_level": "secundaria",
+      "email": "",
+      "createdAt": "2022-02-11T16:30:41.528Z",
+      "updatedAt": "2022-02-11T16:30:41.528Z"
+    }
+  },
+  {
+    "id": 51,
+    "attributes": {
+      "name": "TELESECUNDARIA BICENTENARIO DE LA INDEPENDENCIA DE MEXICO",
+      "gob_key": "22DTV0251M",
+      "rector_name": "",
+      "phone_number": "442-238- 60-00",
+      "street_address": "EL PIE",
+      "state_address": "QUERETARO",
+      "city_address": "EL PIE",
+      "locality_address": "FELIPE CARRILLO PUERTO",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.693954,
+      "longitude_address": -100.574731,
+      "education_level": "secundaria",
+      "email": "",
+      "createdAt": "2022-02-11T16:30:41.838Z",
+      "updatedAt": "2022-02-11T16:30:41.838Z"
+    }
+  },
+  {
+    "id": 52,
+    "attributes": {
+      "name": "TELESECUNDARIA CRISTOBAL COLON",
+      "gob_key": "22DTV0053M",
+      "rector_name": "",
+      "phone_number": "442 238 6000 ext 1862,1863,1864 4422306151",
+      "street_address": "PINTO",
+      "state_address": "QUERETARO",
+      "city_address": "PINTO",
+      "locality_address": "SANTA ROSA JAUREGUI",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.803941,
+      "longitude_address": -100.408619,
+      "education_level": "secundaria",
+      "email": "florean.vargasc@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:42.291Z",
+      "updatedAt": "2022-02-11T16:30:42.291Z"
+    }
+  },
+  {
+    "id": 53,
+    "attributes": {
+      "name": "TELESECUNDARIA EMILIANO ZAPATA",
+      "gob_key": "22DST0034K",
+      "rector_name": "",
+      "phone_number": "4421046339",
+      "street_address": "PUERTO DE AGUIRRE",
+      "state_address": "QUERETARO",
+      "city_address": "PUERTO DE AGUIRRE",
+      "locality_address": "SANTA ROSA JAUREGUI",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.454146,
+      "longitude_address": -100.394543,
+      "education_level": "secundaria",
+      "email": "ignacio.riverav@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:42.552Z",
+      "updatedAt": "2022-02-11T16:30:42.552Z"
+    }
+  },
+  {
+    "id": 54,
+    "attributes": {
+      "name": "TELESECUNDARIA ENCUENTRO UNIVERSIDAD SOCIEDAD",
+      "gob_key": "22DTV0083G",
+      "rector_name": "",
+      "phone_number": "4425617868",
+      "street_address": "CONOCIDO",
+      "state_address": "QUERETARO",
+      "city_address": "LA VERSOLILLA",
+      "locality_address": "SANTA ROSA JAUREGUI",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.87272,
+      "longitude_address": 100.387407,
+      "education_level": "secundaria",
+      "email": "florencio.munozg@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:42.837Z",
+      "updatedAt": "2022-02-11T16:30:42.837Z"
+    }
+  },
+  {
+    "id": 55,
+    "attributes": {
+      "name": "TELESECUNDARIA ESCUADRON 201",
+      "gob_key": "22DTV0139S",
+      "rector_name": "",
+      "phone_number": "4423331444",
+      "street_address": "CARRETERA A CHICHIMEQUILLAS S/N",
+      "state_address": "QUERETARO",
+      "city_address": "SAN JOSE EL ALTO",
+      "locality_address": "EPIGMENIO GONZALEZ FLORES",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.808401,
+      "longitude_address": -100.435528,
+      "education_level": "secundaria",
+      "email": "laura.sanchezr@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:43.198Z",
+      "updatedAt": "2022-02-11T16:30:43.198Z"
+    }
+  },
+  {
+    "id": 56,
+    "attributes": {
+      "name": "TELESECUNDARIA HERIBERTO FRIAS",
+      "gob_key": "22DTV0080J",
+      "rector_name": "",
+      "phone_number": "4423799146",
+      "street_address": "MIGUEL ALEMAN VALDEZ S/N",
+      "state_address": "QUERETARO",
+      "city_address": "SAN ISIDRO BUENAVISTA",
+      "locality_address": "SANTA ROSA JAUREGUI",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.786152,
+      "longitude_address": -100.448314,
+      "education_level": "secundaria",
+      "email": "moises.nunezp@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:43.543Z",
+      "updatedAt": "2022-02-11T16:30:43.543Z"
+    }
+  },
+  {
+    "id": 57,
+    "attributes": {
+      "name": "TELESECUNDARIA HEROES DE LA INDEPENDENCIA",
+      "gob_key": "22DTV0233X",
+      "rector_name": "",
+      "phone_number": "4422634291",
+      "street_address": "CONOCIDO",
+      "state_address": "QUERETARO",
+      "city_address": "SAN JOSE BUENAVISTA",
+      "locality_address": "SANTA ROSA JAUREGUI",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.730572,
+      "longitude_address": -100.410738,
+      "education_level": "secundaria",
+      "email": "sandra.cuestasa@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:43.840Z",
+      "updatedAt": "2022-02-11T16:30:43.840Z"
+    }
+  },
+  {
+    "id": 58,
+    "attributes": {
+      "name": "TELESECUNDARIA IGNACIO ZARAGOZA",
+      "gob_key": "22DTV0077W",
+      "rector_name": "",
+      "phone_number": "4424581954",
+      "street_address": "LAS LAJITAS",
+      "state_address": "QUERETARO",
+      "city_address": "LAS LAJITAS",
+      "locality_address": "",
+      "municipality_address": "El MARQUES",
+      "latitude_address": 20.805799,
+      "longitude_address": -100.403978,
+      "education_level": "secundaria",
+      "email": "manuel.jilotec@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:44.235Z",
+      "updatedAt": "2022-02-11T16:30:44.235Z"
+    }
+  },
+  {
+    "id": 59,
+    "attributes": {
+      "name": "TELESECUNDARIA JESUS URUETA",
+      "gob_key": "22DTV0142F",
+      "rector_name": "",
+      "phone_number": "4423815096",
+      "street_address": "LAREDO S/N",
+      "state_address": "QUERETARO",
+      "city_address": "LA ESTACADA",
+      "locality_address": "SANTA ROSA JAUREGUI",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.823743,
+      "longitude_address": -100.410153,
+      "education_level": "secundaria",
+      "email": "raul.alvaradoa.@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:44.847Z",
+      "updatedAt": "2022-02-11T16:30:44.847Z"
+    }
+  },
+  {
+    "id": 60,
+    "attributes": {
+      "name": "TELESECUNDARIA JOSE MA. ARTEAGA",
+      "gob_key": "22DTV0081I",
+      "rector_name": "",
+      "phone_number": "4429999999",
+      "street_address": "CONOCIDO",
+      "state_address": "QUERETARO",
+      "city_address": "LA LUZ",
+      "locality_address": "SANTA ROSA JAUREGUI",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.868644,
+      "longitude_address": -100.439069,
+      "education_level": "secundaria",
+      "email": "ema.manriquezr@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:45.246Z",
+      "updatedAt": "2022-02-11T16:30:45.246Z"
+    }
+  },
+  {
+    "id": 61,
+    "attributes": {
+      "name": "TELESECUNDARIA JOSE MA. MORELOS Y PAVON",
+      "gob_key": "22DTV0157H",
+      "rector_name": "",
+      "phone_number": "4421425725",
+      "street_address": "CONOCIDO",
+      "state_address": "QUERETARO",
+      "city_address": "LA SOLANA SAN JUAN",
+      "locality_address": "SANTA ROSA JAUREGUI",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.748858,
+      "longitude_address": -100.397337,
+      "education_level": "secundaria",
+      "email": "escjosemamorelos104@gmail.com",
+      "createdAt": "2022-02-11T16:30:45.505Z",
+      "updatedAt": "2022-02-11T16:30:45.505Z"
+    }
+  },
+  {
+    "id": 62,
+    "attributes": {
+      "name": "TELESECUNDARIA JOSEFA VERGARA",
+      "gob_key": "22DTV0170B",
+      "rector_name": "",
+      "phone_number": "4421228838",
+      "street_address": "RAFAEL OZUNA S/N",
+      "state_address": "QUERETARO",
+      "city_address": "EL SALITRE",
+      "locality_address": "EPIGMENIO GONZALEZ FLORES",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.666843,
+      "longitude_address": -100.427666,
+      "education_level": "secundaria",
+      "email": "gricelda.quiterio@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:45.806Z",
+      "updatedAt": "2022-02-11T16:30:45.806Z"
+    }
+  },
+  {
+    "id": 63,
+    "attributes": {
+      "name": "TELESECUNDARIA LAZARO CARDENAS DEL RIO (CONAFE)",
+      "gob_key": "22DTV0049Z",
+      "rector_name": "",
+      "phone_number": "4422363096",
+      "street_address": "CONOCIDO",
+      "state_address": "QUERETARO",
+      "city_address": "CHARAPE DE LOS PELONES",
+      "locality_address": "SANTA ROSA JAUREGUI",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.598744,
+      "longitude_address": -100.209235,
+      "education_level": "secundaria",
+      "email": "ericelia.ramosh@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:46.089Z",
+      "updatedAt": "2022-02-11T16:30:46.089Z"
+    }
+  },
+  {
+    "id": 64,
+    "attributes": {
+      "name": "TELESECUNDARIA LUIS SANDI",
+      "gob_key": "22DTV0051O",
+      "rector_name": "",
+      "phone_number": "4424713416",
+      "street_address": "CALLE 12 S/N",
+      "state_address": "QUERETARO",
+      "city_address": "JOFRITO",
+      "locality_address": "SANTA ROSA JAUREGUI",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.865885,
+      "longitude_address": -100.417869,
+      "education_level": "secundaria",
+      "email": "angeles.beltranc@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:46.394Z",
+      "updatedAt": "2022-02-11T16:30:46.394Z"
+    }
+  },
+  {
+    "id": 65,
+    "attributes": {
+      "name": "TELESECUNDARIA LUIS VEGA Y MONROY",
+      "gob_key": "22DTV0196J",
+      "rector_name": "",
+      "phone_number": "4423245861",
+      "street_address": "VISTAS DEL CIMATARIO S/N",
+      "state_address": "QUERETARO",
+      "city_address": "VISTAS DEL CIMATARIO",
+      "locality_address": "JOSEFA VERGARA Y HERNÁNDEZ",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.554463,
+      "longitude_address": -100.380597,
+      "education_level": "secundaria",
+      "email": "antonio.ramirezf@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:46.746Z",
+      "updatedAt": "2022-02-11T16:30:46.746Z"
+    }
+  },
+  {
+    "id": 66,
+    "attributes": {
+      "name": "TELESECUNDARIA MEXICO",
+      "gob_key": "22DTV0001G",
+      "rector_name": "",
+      "phone_number": "4423247607",
+      "street_address": "CONOCIDO",
+      "state_address": "QUERETARO",
+      "city_address": "LA MONJA",
+      "locality_address": "SANTA ROSA JAUREGUI",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.835436,
+      "longitude_address": -100.49506,
+      "education_level": "secundaria",
+      "email": "norma.morae@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:47.055Z",
+      "updatedAt": "2022-02-11T16:30:47.055Z"
+    }
+  },
+  {
+    "id": 67,
+    "attributes": {
+      "name": "TELESECUNDARIA MIGUEL DOMINGUEZ",
+      "gob_key": "22DTV0154K",
+      "rector_name": "",
+      "phone_number": "4411141041",
+      "street_address": "CONOCIDO",
+      "state_address": "QUERETARO",
+      "city_address": "TINAJA DE LA ESTANCIA",
+      "locality_address": "FELIPE CARRILLO PUERTO",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.712799,
+      "longitude_address": -100.551699,
+      "education_level": "secundaria",
+      "email": "enrique.angelesl@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:47.398Z",
+      "updatedAt": "2022-02-11T16:30:47.398Z"
+    }
+  },
+  {
+    "id": 68,
+    "attributes": {
+      "name": "TELESECUNDARIA PARTICIPACIÓN DESARROLLO Y PAZ",
+      "gob_key": "22DTV0052N",
+      "rector_name": "",
+      "phone_number": "4422742810",
+      "street_address": "CONOCIDO",
+      "state_address": "QUERETARO",
+      "city_address": "SAN MIGUELITO",
+      "locality_address": "SANTA ROSA JAUREGUI",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.739632,
+      "longitude_address": -100.498962,
+      "education_level": "secundaria",
+      "email": "olivia.riverav@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:47.660Z",
+      "updatedAt": "2022-02-11T16:30:47.660Z"
+    }
+  },
+  {
+    "id": 69,
+    "attributes": {
+      "name": "TELESECUNDARIA RAZA DE BRONCE",
+      "gob_key": "22DTV0195K",
+      "rector_name": "",
+      "phone_number": "4423806105",
+      "street_address": "PROLONGACION INDEPENDENCIA S/N",
+      "state_address": "QUERETARO",
+      "city_address": "SANTA MARIA MAGDALENA",
+      "locality_address": "FELIPE CARRILLO PUERTO",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.593555,
+      "longitude_address": -100.452205,
+      "education_level": "secundaria",
+      "email": "jangeles@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:47.901Z",
+      "updatedAt": "2022-02-11T16:30:47.901Z"
+    }
+  },
+  {
+    "id": 70,
+    "attributes": {
+      "name": "TELESECUNDARIA REPUBLICA DE ARGENTINA",
+      "gob_key": "22DTV0018G",
+      "rector_name": "",
+      "phone_number": "4191081350",
+      "street_address": "BENITO JUAREZ S/N",
+      "state_address": "QUERETARO",
+      "city_address": "PIE DE GALLO",
+      "locality_address": "SANTA ROSA JAUREGUI",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.790668,
+      "longitude_address": -100.495482,
+      "education_level": "secundaria",
+      "email": "bernardo.hernandezb@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:48.145Z",
+      "updatedAt": "2022-02-11T16:30:48.145Z"
+    }
+  },
+  {
+    "id": 71,
+    "attributes": {
+      "name": "TELESECUNDARIA REPUBLICA DEL ECUADOR",
+      "gob_key": "22DTV0017H",
+      "rector_name": "",
+      "phone_number": "4422716311",
+      "street_address": "CONOCIDO",
+      "state_address": "QUERETARO",
+      "city_address": "EL NABO",
+      "locality_address": "FELIPE CARRILLO PUERTO",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.697642,
+      "longitude_address": -100.480182,
+      "education_level": "secundaria",
+      "email": "veronica.guerreror@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:48.394Z",
+      "updatedAt": "2022-02-11T16:30:48.394Z"
+    }
+  },
+  {
+    "id": 72,
+    "attributes": {
+      "name": "TELESECUNDARIA ROBERTO RUIZ OBREGON",
+      "gob_key": "22DTV0234W",
+      "rector_name": "",
+      "phone_number": "",
+      "street_address": "CONOCIDO",
+      "state_address": "QUERETARO",
+      "city_address": "CASA BLANCA (SANTA ROSA JAUREGUI)",
+      "locality_address": "SANTA ROSA JAUREGUI",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.756883,
+      "longitude_address": -100.504175,
+      "education_level": "secundaria",
+      "email": "eleazar.guzmana@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:48.631Z",
+      "updatedAt": "2022-02-11T16:30:48.631Z"
+    }
+  },
+  {
+    "id": 73,
+    "attributes": {
+      "name": "TELESECUNDARIA SUEÑO DE  JUVENTUD Y ESTUDIO",
+      "gob_key": "22KTV0009I",
+      "rector_name": "",
+      "phone_number": "",
+      "street_address": "CONOCIDO",
+      "state_address": "QUERETARO",
+      "city_address": "CHARAPE DE LA JOYA",
+      "locality_address": "SANTA ROSA JAUREGUI",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.797218,
+      "longitude_address": -100.553607,
+      "education_level": "secundaria",
+      "email": "",
+      "createdAt": "2022-02-11T16:30:48.911Z",
+      "updatedAt": "2022-02-11T16:30:48.911Z"
+    }
+  },
+  {
+    "id": 74,
+    "attributes": {
+      "name": "TELESECUNDARIA VASCO DE QUIROGA",
+      "gob_key": "22DTV0245B",
+      "rector_name": "",
+      "phone_number": "4425110728",
+      "street_address": "CONOCIDO S/N",
+      "state_address": "QUERETARO",
+      "city_address": "CERRO DE LA CRUZ",
+      "locality_address": "SANTA ROSA JAUREGUI",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.814688,
+      "longitude_address": -100.499031,
+      "education_level": "secundaria",
+      "email": "luis.gomezl@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:30:49.216Z",
+      "updatedAt": "2022-02-11T16:30:49.216Z"
+    }
+  },
+  {
+    "id": 75,
+    "attributes": {
+      "name": "BACHILLERATO SEMIESCOLARIZADO CENTRO UAQ",
+      "gob_key": "22UBH0006J",
+      "rector_name": "ING. JAIME NIEVES MEDRANO",
+      "phone_number": "(442) 192-12-00, Extensión 5014. 5040. 5041",
+      "street_address": "16 DE SEPTIEMBRE",
+      "state_address": "QUERETARO",
+      "city_address": "CENTRO",
+      "locality_address": "CENTRO HISTORICO",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.5934,
+      "longitude_address": -100.39,
+      "education_level": "preparatoria",
+      "email": "nathalie.ng.morales@uaq.mx",
+      "createdAt": "2022-02-11T16:47:09.712Z",
+      "updatedAt": "2022-02-11T16:47:09.712Z"
+    }
+  },
+  {
+    "id": 76,
+    "attributes": {
+      "name": "CBTIS 118  (CENTRO DE BACHILLERATO TECNOLÓGICO  NO. 118)",
+      "gob_key": "22DCT0419N",
+      "rector_name": "Eduardo Ortega Hernández",
+      "phone_number": "442.189.2530 ext. 129 / 442.189.2531",
+      "street_address": "PASEO CONSTITUYENTES PTE S/N",
+      "state_address": "QUERETARO",
+      "city_address": "TEJEDA",
+      "locality_address": "EL PUEBLITO",
+      "municipality_address": "CORREGIDORA",
+      "latitude_address": 20.550707,
+      "longitude_address": -100.424973,
+      "education_level": "preparatoria",
+      "email": "cbtis118.dir@uemstis.sems.gob.mx",
+      "createdAt": "2022-02-11T16:47:10.020Z",
+      "updatedAt": "2022-02-12T16:14:15.155Z"
+    }
+  },
+  {
+    "id": 77,
+    "attributes": {
+      "name": "CECYTEQ 11 - TINAJA DE LA ESTANCIA (COLEGIO DE ESTUDIOS CIENTÍFICOS  Y TECNOLOGICOS DEL ESTADO DE QR",
+      "gob_key": "22ETC0011Y",
+      "rector_name": "ALFONSO VALERIO SALGADO",
+      "phone_number": "442-161-0172 y 442-643-0102.                                    442-425-2165 (Celular director)",
+      "street_address": "CONOCIDO",
+      "state_address": "QUERETARO",
+      "city_address": "TINAJA DE LA ESTANCIA",
+      "locality_address": "FELIPE CARRILLO PUERTO",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.7146,
+      "longitude_address": -100.559,
+      "education_level": "preparatoria",
+      "email": "valerio9x9@hotmail.com",
+      "createdAt": "2022-02-11T16:47:10.287Z",
+      "updatedAt": "2022-02-12T16:15:23.218Z"
+    }
+  },
+  {
+    "id": 78,
+    "attributes": {
+      "name": "CECYTEQ 5 - CERRITO COLORADO (COLEGIO DE ESTUDIOS CIENTÍFICOS  Y TECNOLOGICOS DEL ESTADO DE QRO.)",
+      "gob_key": "22ETC0005N",
+      "rector_name": "RAUL FANNY HERNANDEZ SALINAS",
+      "phone_number": "442-260-0443   4422439317",
+      "street_address": "KILIWAS ESQUINA CHALCAS",
+      "state_address": "QUERETARO",
+      "city_address": "CERRITO COLORADO",
+      "locality_address": "FELIX OSORES SOTOMAYOR",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.63799,
+      "longitude_address": -100.464286,
+      "education_level": "preparatoria",
+      "email": "Arturo murillo Martinez (becas) drquestamm@hotmail.com (becas) raul2006-5@hotmail.com (director)",
+      "createdAt": "2022-02-11T16:47:10.540Z",
+      "updatedAt": "2022-02-12T16:16:12.837Z"
+    }
+  },
+  {
+    "id": 79,
+    "attributes": {
+      "name": "CECYTEQ 6 - CORREGIDORA (COLEGIO DE ESTUDIOS CIENTÍFICOS  Y TECNOLOGICOS DEL ESTADO DE QRO.)",
+      "gob_key": "22ETC0006M",
+      "rector_name": "MA. LUIS RAMIREZ GONZALEZ",
+      "phone_number": "442-299-3106",
+      "street_address": "AV CANDILES NO. 317",
+      "state_address": "QUERETARO",
+      "city_address": "VALLE REAL RESIDENCIAL",
+      "locality_address": "VENCEREMOS",
+      "municipality_address": "CORREGIDORA",
+      "latitude_address": 20.547816,
+      "longitude_address": -100.393749,
+      "education_level": "preparatoria",
+      "email": "lore_baftidas8@hotmail.com",
+      "createdAt": "2022-02-11T16:47:10.786Z",
+      "updatedAt": "2022-02-12T16:17:28.361Z"
+    }
+  },
+  {
+    "id": 80,
+    "attributes": {
+      "name": "CECYTEQ 8 - MENCHACA (COLEGIO DE ESTUDIOS CIENTÍFICOS  Y TECNOLOGICOS DEL ESTADO DE QRO.)",
+      "gob_key": "22ETC0088K",
+      "rector_name": "SERGIO RODRIGUEZ ZUÑIGA",
+      "phone_number": "442-628-2253 y 442-628-2254",
+      "street_address": "CARR A CHICHIMEQUILLAS",
+      "state_address": "QUERETARO",
+      "city_address": "MENCHACA",
+      "locality_address": "EPIGMENIO GONZALEZ FLORES",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.588056,
+      "longitude_address": -100.388056,
+      "education_level": "preparatoria",
+      "email": "checorozu@hotmail.com",
+      "createdAt": "2022-02-11T16:47:11.046Z",
+      "updatedAt": "2022-02-12T16:17:52.364Z"
+    }
+  },
+  {
+    "id": 81,
+    "attributes": {
+      "name": "CECYTEQ 9 - MONTENEGRO (COLEGIO DE ESTUDIOS CIENTÍFICOS  Y TECNOLOGICOS DEL ESTADO DE QRO.)",
+      "gob_key": "22ETC0009J",
+      "rector_name": "MAYOR ANDRES QUIROGA DIAZ",
+      "phone_number": "442-628-2916 y 442-628-2917",
+      "street_address": "HACIENDA DEL TESORO S/N",
+      "state_address": "QUERETARO",
+      "city_address": "MONTENEGRO",
+      "locality_address": "SANTA ROSA JAUREGUI",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.76544,
+      "longitude_address": -100.4255,
+      "education_level": "preparatoria",
+      "email": "lupistel5@yahoo.com.mx",
+      "createdAt": "2022-02-11T16:47:11.307Z",
+      "updatedAt": "2022-02-12T16:18:24.625Z"
+    }
+  },
+  {
+    "id": 82,
+    "attributes": {
+      "name": "CEDART IGNACIO MARIANO DE LAS CASAS",
+      "gob_key": "22DAR0004C",
+      "rector_name": "ALVIS RENE GONZALEZ BLANCAS",
+      "phone_number": "442 153 1970 al 79",
+      "street_address": "CIRCUITO PLAN VIDA NO. 116",
+      "state_address": "QUERETARO",
+      "city_address": "CENTRO SUR",
+      "locality_address": "JOSEFA VERGARA Y HERNÁNDEZ",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.576372,
+      "longitude_address": -100.363027,
+      "education_level": "preparatoria",
+      "email": "agblancas@inda.gob.mx",
+      "createdAt": "2022-02-11T16:47:11.578Z",
+      "updatedAt": "2022-02-11T16:47:11.578Z"
+    }
+  },
+  {
+    "id": 83,
+    "attributes": {
+      "name": "CETIS 105 (CENTRO DE ESTUDIOS TECNOLÓGICOS INDUSTRIAL Y DE SERVICIOS NO. 105)",
+      "gob_key": "22DCT0105N",
+      "rector_name": "ING.GUILLERMO CONCHA RODRIGUEZ",
+      "phone_number": "442 242 1845 ext. 104,109",
+      "street_address": "KM. 35 CARRETERA A TLACOTE EL BAJO",
+      "state_address": "QUERETARO",
+      "city_address": "SANTA MARIA MAGDALENA",
+      "locality_address": "FELIPE CARRILLO PUERTO",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.592532,
+      "longitude_address": -100.444846,
+      "education_level": "preparatoria",
+      "email": "cetis105.escolares@dgeti.sems.gob.mx",
+      "createdAt": "2022-02-11T16:47:11.830Z",
+      "updatedAt": "2022-02-11T16:47:11.830Z"
+    }
+  },
+  {
+    "id": 84,
+    "attributes": {
+      "name": "CETIS 16 (CENTRO DE ESTUDIOS TECNOLÓGICOS INDUSTRIAL Y DE SERVICIO NO. 16)",
+      "gob_key": "22DCT0016U",
+      "rector_name": "MTRA MIRELLA CARLOS JAIME",
+      "phone_number": "442 214 0305 ext.107, 108",
+      "street_address": "AV. PIE DE LA CUESTA NO. 1048",
+      "state_address": "QUERETARO",
+      "city_address": "SAN PEDRITO ECOLÓGICO",
+      "locality_address": "EPIGMENIO GONZALEZ FLORES",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.638958,
+      "longitude_address": -100.405413,
+      "education_level": "preparatoria",
+      "email": "mirellacarlos@live-edu.cems.go",
+      "createdAt": "2022-02-11T16:47:12.080Z",
+      "updatedAt": "2022-02-12T16:19:17.833Z"
+    }
+  },
+  {
+    "id": 85,
+    "attributes": {
+      "name": "COLEGIO DE BACHILLERES PLANTEL NO.1",
+      "gob_key": "22ECB0001B",
+      "rector_name": "LIC.AURELIO RAMIREZ VALENCIA",
+      "phone_number": "442-291-9400 ext. 1401     4422173842 / 4422202641",
+      "street_address": "ACCESO A S/N",
+      "state_address": "QUERETARO",
+      "city_address": "SATELITE",
+      "locality_address": "FELIX OSORES SOTOMAYOR",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.632734,
+      "longitude_address": -100.443633,
+      "education_level": "preparatoria",
+      "email": "aureliorv@cobaq.edu.mx",
+      "createdAt": "2022-02-11T16:47:12.353Z",
+      "updatedAt": "2022-02-12T16:21:29.047Z"
+    }
+  },
+  {
+    "id": 86,
+    "attributes": {
+      "name": "COLEGIO DE BACHILLERES PLANTEL NO.13",
+      "gob_key": "22ECB0013G",
+      "rector_name": "MTRO. JUAN PABLO GOMEZ ESTRADA",
+      "phone_number": "442 243 1895 y 442-291-9400",
+      "street_address": "AV. PIE DE LA CUESTA S/N",
+      "state_address": "QUERETARO",
+      "city_address": "SAN PEDRITO PEÑUELAS I",
+      "locality_address": "EPIGMENIO GONZALEZ FLORES",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.644311,
+      "longitude_address": -100.404797,
+      "education_level": "preparatoria",
+      "email": "juanpge@e.cobaq.edu.mx",
+      "createdAt": "2022-02-11T16:47:12.631Z",
+      "updatedAt": "2022-02-12T16:21:47.676Z"
+    }
+  },
+  {
+    "id": 87,
+    "attributes": {
+      "name": "COLEGIO DE BACHILLERES PLANTEL NO.15",
+      "gob_key": "22ECB0017C",
+      "rector_name": "LIC. FERMIN FERNANDO OROZCO RAMIREZ",
+      "phone_number": "442-246-61-95",
+      "street_address": "ACCESO LIENZO CHARRO",
+      "state_address": "QUERETARO",
+      "city_address": "CHICHIMEQUILLAS",
+      "locality_address": "",
+      "municipality_address": "EL MARQUES",
+      "latitude_address": 20.7626425,
+      "longitude_address": -100.3362353,
+      "education_level": "preparatoria",
+      "email": "fermin.or@e.cobaq.edu.mx",
+      "createdAt": "2022-02-11T16:47:12.883Z",
+      "updatedAt": "2022-02-12T16:26:14.171Z"
+    }
+  },
+  {
+    "id": 88,
+    "attributes": {
+      "name": "COLEGIO DE BACHILLERES PLANTEL NO.16",
+      "gob_key": "22ECB0020Q",
+      "rector_name": "LIC. CECILIA MORALES TOVAR",
+      "phone_number": "(442) 253-10-32 y 253-12-17",
+      "street_address": "CALLE CARRETERA MEXICO - QUERETARO KILOMETRO 194.5",
+      "state_address": "QUERETARO",
+      "city_address": "GENERAL LÁZARO CÁRDENAS (EL COLORADO)",
+      "locality_address": "",
+      "municipality_address": "EL MARQUES",
+      "latitude_address": 20.5638,
+      "longitude_address": -100.244,
+      "education_level": "preparatoria",
+      "email": "ceciliamt@e.cobaq.edu.mx",
+      "createdAt": "2022-02-11T16:47:13.122Z",
+      "updatedAt": "2022-02-12T16:26:25.032Z"
+    }
+  },
+  {
+    "id": 89,
+    "attributes": {
+      "name": "COLEGIO DE BACHILLERES PLANTEL NO.17",
+      "gob_key": "22ECB0022O",
+      "rector_name": "RODOLDO QUITERIO MENDOZA",
+      "phone_number": "(442) 261-13-90 y 243-06-57 ext. 106",
+      "street_address": "AV. SOMBRERETES/N ESQ.CALZ .DE BELEN",
+      "state_address": "QUERETARO",
+      "city_address": "EL VERGEL",
+      "locality_address": "EPIGMENIO GONZALEZ FLORES",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.647953,
+      "longitude_address": -100.416731,
+      "education_level": "preparatoria",
+      "email": "rodolfoqm@e.cobaq.edu.mx citlalioa@e.cobaq.edu.mx",
+      "createdAt": "2022-02-11T16:47:13.397Z",
+      "updatedAt": "2022-02-12T16:22:23.668Z"
+    }
+  },
+  {
+    "id": 90,
+    "attributes": {
+      "name": "COLEGIO DE BACHILLERES PLANTEL NO.19",
+      "gob_key": "  ",
+      "rector_name": "HERNÁNDEZ GARCÍA MARÍA ELVIA ELIZA",
+      "phone_number": "442 310 0101",
+      "street_address": "CAMINO A LA CEJA",
+      "state_address": "QUERETARO",
+      "city_address": "BRAVO",
+      "locality_address": "",
+      "municipality_address": "CORREGIDORA",
+      "latitude_address": 20.4,
+      "longitude_address": -100.423,
+      "education_level": "preparatoria",
+      "email": "",
+      "createdAt": "2022-02-11T16:47:13.662Z",
+      "updatedAt": "2022-02-12T16:26:35.151Z"
+    }
+  },
+  {
+    "id": 91,
+    "attributes": {
+      "name": "COLEGIO DE BACHILLERES PLANTEL NO.22",
+      "gob_key": "22ECB0027J",
+      "rector_name": "LIC. NOE GAUCIN RIOS",
+      "phone_number": "(442) 298-61-64 y 298-61-65",
+      "street_address": "CALLE SAN RAFAEL, LOTE 113, MANZANA 8",
+      "state_address": "QUERETARO",
+      "city_address": "FRACC. SAN MIGUEL 2A. ETAPA",
+      "locality_address": "FELIX OSORES SOTOMAYOR",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.653852,
+      "longitude_address": -100.46646,
+      "education_level": "preparatoria",
+      "email": "yeseniayp@e.cobaq.edu.mx (becas) noegr@e.cobaq.edu.mx",
+      "createdAt": "2022-02-11T16:47:13.927Z",
+      "updatedAt": "2022-02-12T16:22:53.801Z"
+    }
+  },
+  {
+    "id": 92,
+    "attributes": {
+      "name": "COLEGIO DE BACHILLERES PLANTEL NO.3",
+      "gob_key": "22ECB0003Z",
+      "rector_name": "LORENA DEL CONSUELO NAVARRO TORRES",
+      "phone_number": "(442) 228-02-81 Y 442-228-12-24",
+      "street_address": "JOSEFA ORTIZ DE DOMINGUEZ NO. 209",
+      "state_address": "QUERETARO",
+      "city_address": "COLINAS DEL REMANSO",
+      "locality_address": "EL PUEBLITO",
+      "municipality_address": "CORREGIDORA",
+      "latitude_address": 20.552552,
+      "longitude_address": -100.415223,
+      "education_level": "preparatoria",
+      "email": "lorena.nt@e.cobaq.edu.mx",
+      "createdAt": "2022-02-11T16:47:14.186Z",
+      "updatedAt": "2022-02-12T16:23:14.894Z"
+    }
+  },
+  {
+    "id": 93,
+    "attributes": {
+      "name": "COLEGIO DE BACHILLERES PLANTEL NO.7",
+      "gob_key": "22ECB0007W",
+      "rector_name": "ING. HUGO MIGUEL CASTAÑEDA DIAZ",
+      "phone_number": "(442) 223-24-04",
+      "street_address": "COLEGIO MILITAR # 13",
+      "state_address": "QUERETARO",
+      "city_address": "EL JARDIN",
+      "locality_address": "LA CAÑADA",
+      "municipality_address": "EL MARQUES",
+      "latitude_address": 20.608443,
+      "longitude_address": 100.330423,
+      "education_level": "preparatoria",
+      "email": "hugo.cd@e.cobaq.edu.mx",
+      "createdAt": "2022-02-11T16:47:14.443Z",
+      "updatedAt": "2022-02-12T16:23:30.698Z"
+    }
+  },
+  {
+    "id": 94,
+    "attributes": {
+      "name": "COLEGIO DE BACHILLERES PLANTEL NO.8",
+      "gob_key": "22ECB0008V",
+      "rector_name": "AGUSTIN ORTEGA TOVAR",
+      "phone_number": "(442) 222-61-20 y 222-86-43",
+      "street_address": "AXAYACALT S/N",
+      "state_address": "QUERETARO",
+      "city_address": "AZTECA",
+      "locality_address": "JOSEFA VERGARA Y HERNÁNDEZ",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.557917,
+      "longitude_address": -100.385972,
+      "education_level": "preparatoria",
+      "email": "agustinot@e.cobaq.edu.mx",
+      "createdAt": "2022-02-11T16:47:14.716Z",
+      "updatedAt": "2022-02-12T16:24:17.235Z"
+    }
+  },
+  {
+    "id": 95,
+    "attributes": {
+      "name": "COLEGIO DE BACHILLERES PLANTEL NO.9",
+      "gob_key": "22ECB0009U",
+      "rector_name": "MTRA OLGA ELENA MARTINEZ ESQUIVEL",
+      "phone_number": "(442) 291-05-22 Y 442 291 14 54",
+      "street_address": "AVENIDA 20 DE NOVIEMBRE PONIENTE",
+      "state_address": "QUERETARO",
+      "city_address": "PIE DE GALLO",
+      "locality_address": "SANTA ROSA JAUREGUI",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.745169,
+      "longitude_address": -100.450908,
+      "education_level": "preparatoria",
+      "email": "olgaeme@e.cobaq.edu.mx",
+      "createdAt": "2022-02-11T16:47:14.967Z",
+      "updatedAt": "2022-02-12T16:25:23.686Z"
+    }
+  },
+  {
+    "id": 96,
+    "attributes": {
+      "name": "CONALEP - QRO (COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO)",
+      "gob_key": "22DTP002V",
+      "rector_name": "LIC. JOSE OMAR ACOSTA AGUILAR",
+      "phone_number": "442 242 3049 , 442-218-1496 , 442-218-1601,  442-218-1549",
+      "street_address": "ACC. 4 FRACC. IND. BENITO JUAREZ",
+      "state_address": "QUERETARO",
+      "city_address": "LA INDUSTRIAL",
+      "locality_address": "FELIX OSORES SOTOMAYOR",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.631817248617928,
+      "longitude_address": -100.4421441409131,
+      "education_level": "preparatoria",
+      "email": "silvia.ortiz@qro.conalep.edu.mx",
+      "createdAt": "2022-02-11T16:47:15.244Z",
+      "updatedAt": "2022-02-12T16:27:31.070Z"
+    }
+  },
+  {
+    "id": 97,
+    "attributes": {
+      "name": "CONALEP - SAN JOSE ITURBIDE (COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE GTO.)",
+      "gob_key": "11DPT0012W",
+      "rector_name": "LIC. ELIA GAYTAN ALCARAZ",
+      "phone_number": "4191980883 ó 4191980895 ext. 123",
+      "street_address": "AVENIDA CONALEP NO. 104",
+      "state_address": "GUANAJUATO",
+      "city_address": "COL. CENTRO",
+      "locality_address": "",
+      "municipality_address": "SAN JOSE ITURBIDE",
+      "latitude_address": 21.003853273626767,
+      "longitude_address": -100.40122471603289,
+      "education_level": "preparatoria",
+      "email": "antonio.esquedav@conalepgto.edu.mx",
+      "createdAt": "2022-02-11T16:47:15.517Z",
+      "updatedAt": "2022-02-11T16:47:15.517Z"
+    }
+  },
+  {
+    "id": 98,
+    "attributes": {
+      "name": "CONALEP - QRO (COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO)",
+      "gob_key": "22DPT0004T",
+      "rector_name": "ALEJANDRO ALBERTO ARREDONDO VELAZQUEZ",
+      "phone_number": "442-628-3746\r\n442-628-3747",
+      "street_address": "CARRETERA ESTATAL 200 QUERETARO-TEQUISQUIAPAN KM 17",
+      "state_address": "QUERETARO",
+      "city_address": "LA GRIEGA",
+      "locality_address": "",
+      "municipality_address": "EL MARQUES",
+      "latitude_address": 20.64195,
+      "longitude_address": -100.24288,
+      "education_level": "preparatoria",
+      "email": "jenifher.aguilar@qro.conalep.edu.mx",
+      "createdAt": "2022-02-11T16:47:15.790Z",
+      "updatedAt": "2022-02-12T16:28:22.168Z"
+    }
+  },
+  {
+    "id": 99,
+    "attributes": {
+      "name": "TALENTOS DEPORTIVOS",
+      "gob_key": "",
+      "rector_name": "",
+      "phone_number": "442 246 6086",
+      "street_address": "AV. RIO TAMESIS S/N",
+      "state_address": "QUERETARO",
+      "city_address": "VILLAS DEL PARQUE",
+      "locality_address": "EPIGMENIO GONZALEZ FLORES",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.62002319399249,
+      "longitude_address": -100.39318639532942,
+      "education_level": "preparatoria",
+      "email": "22des0041b@usebeq.edu.mx",
+      "createdAt": "2022-02-11T16:47:16.159Z",
+      "updatedAt": "2022-02-11T16:47:16.159Z"
+    }
+  },
+  {
+    "id": 100,
+    "attributes": {
+      "name": "TELEBACHILLERATO COMUNITARIO (SOLANA)",
+      "gob_key": "22ETK0010H",
+      "rector_name": "EVELIN ARMENTA RAMIREZ",
+      "phone_number": "442-566-9926",
+      "street_address": "SOLANA",
+      "state_address": "QUERETARO",
+      "city_address": "LA SOLANA (TROJES)",
+      "locality_address": "SANTA ROSA JAUREGUI",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.745,
+      "longitude_address": -100.395,
+      "education_level": "preparatoria",
+      "email": "tbcqrolasolana@gmail.com (becas) tbcqrocontrolescolar@hotmail.com",
+      "createdAt": "2022-02-11T16:47:16.446Z",
+      "updatedAt": "2022-02-11T16:47:16.446Z"
+    }
+  },
+  {
+    "id": 101,
+    "attributes": {
+      "name": "TELEBACHILLERATO COMUNITARIO (VERSOLILLA)",
+      "gob_key": "22ETK005W",
+      "rector_name": "GRECIA ESTEFANIA ZARATE MONTES",
+      "phone_number": "442-485-7961",
+      "street_address": "CAMINO A VERSOLILLA",
+      "state_address": "QUERETARO",
+      "city_address": "LA VERSOLILLA",
+      "locality_address": "SANTA ROSA JAUREGUI",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.8722,
+      "longitude_address": -100.376,
+      "education_level": "preparatoria",
+      "email": "grecia_zarate@icateq.edu.mx",
+      "createdAt": "2022-02-11T16:47:16.739Z",
+      "updatedAt": "2022-02-11T16:47:16.739Z"
+    }
+  },
+  {
+    "id": 102,
+    "attributes": {
+      "name": "PREPARATORIA BICENTENARIO UAQ",
+      "gob_key": "22UBH0007I",
+      "rector_name": "MTRO. OSCAR URIEL CARDENAS ROSAS",
+      "phone_number": "442 192 1200 EXT. 64201",
+      "street_address": "EXPLANADA PARQUE BICENTENARIO",
+      "state_address": "QUERETARO",
+      "city_address": "PROL. INDEPENDENCIA",
+      "locality_address": "SANTA ROSA JAUREGUI",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.734039,
+      "longitude_address": -100.446542,
+      "education_level": "preparatoria",
+      "email": "oscar.cardenas@uqa.mx                             Luis alfonso mejia gallardo luis.alfonso.mejia@uaq.mx (coordinador de becas)",
+      "createdAt": "2022-02-11T16:47:16.962Z",
+      "updatedAt": "2022-02-12T16:29:33.207Z"
+    }
+  },
+  {
+    "id": 103,
+    "attributes": {
+      "name": "PREPARATORIA PLANTEL NORTE",
+      "gob_key": "22UBH001O",
+      "rector_name": "ING. JAIME NIEVES MEDRANO COORDINADOR PLANTEL NORTE MTRA. M. H  FATIMA SANTAMARIA HERNANDEZ",
+      "phone_number": "442-192-12-00, Ext. 5063. 5016",
+      "street_address": "AV. CERRO DEL SOBRERETE S/N",
+      "state_address": "QUERETARO",
+      "city_address": "UAQ PLANTEL NORTE (ESCUELA DE BACHILLERES)",
+      "locality_address": "EPIGMENIO GONZALEZ FLORES",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.626002,
+      "longitude_address": -100.412219,
+      "education_level": "preparatoria",
+      "email": "plantel_norte@outlook.com  atipul88@yahoo.com.mx (becas)",
+      "createdAt": "2022-02-11T16:47:17.193Z",
+      "updatedAt": "2022-02-12T16:31:45.162Z"
+    }
+  },
+  {
+    "id": 104,
+    "attributes": {
+      "name": "PREPARATORIA PLANTEL SUR",
+      "gob_key": "22UBH0002N",
+      "rector_name": "COORDINADORA LUCERO CANTO GUERRERO",
+      "phone_number": "442 192 1200 EXT. 5020-5021",
+      "street_address": "CIRCUITO MOISE SOLANA NO. 183",
+      "state_address": "QUERETARO",
+      "city_address": "PRADOS DEL MIRADOR",
+      "locality_address": "JOSEFA VERGARA Y HERNÁNDEZ",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.575331,
+      "longitude_address": -100.379597,
+      "education_level": "preparatoria",
+      "email": "lucero.canto@uaq.mx",
+      "createdAt": "2022-02-11T16:47:17.441Z",
+      "updatedAt": "2022-02-12T16:32:28.304Z"
+    }
+  },
+  {
+    "id": 109,
+    "attributes": {
+      "name": "COLEGIO NACIONAL DE DANZA CONTEMPORANEA",
+      "gob_key": "22EAR0001E",
+      "rector_name": "LIC ORLANDO DE JESUS SCHEKER ROMAN",
+      "phone_number": "442 213 8795",
+      "street_address": "SIERRA DE TILACO NO 201",
+      "state_address": "QUERETARO",
+      "city_address": "VILLAS DEL SOL",
+      "locality_address": "CENTRO HISTORICO",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.583229,
+      "longitude_address": -100.3772658,
+      "education_level": "licenciatura",
+      "email": "nomeji2001@hotmail.com",
+      "createdAt": "2022-02-11T17:01:05.723Z",
+      "updatedAt": "2022-02-11T17:01:05.723Z"
+    }
+  },
+  {
+    "id": 110,
+    "attributes": {
+      "name": "CENTENARIA Y BENEMERITA ESC. NORMAL DEL ESTADO DE QRO. ANDRES BALVANERA\"\"",
+      "gob_key": "22ENL0002N",
+      "rector_name": "LIC. IRENE QUINTANAR MEJIA",
+      "phone_number": "442 213 1131 ext. 113",
+      "street_address": "CALLE SAN MATEO S/N",
+      "state_address": "QUERETARO",
+      "city_address": "VISTA ALEGRE",
+      "locality_address": "JOSEFA VERGARA Y HERNÁNDEZ",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.5694713,
+      "longitude_address": -100.3850473,
+      "education_level": "licenciatura",
+      "email": "serviciosacademicos@cbeneq.edu.mx cieen@cbeneq.edu.mx",
+      "createdAt": "2022-02-11T17:01:06.030Z",
+      "updatedAt": "2022-02-12T15:58:48.937Z"
+    }
+  },
+  {
+    "id": 111,
+    "attributes": {
+      "name": "ESCUELA NORMAL SUPERIOR DE QUERETARO",
+      "gob_key": "22DNS001l",
+      "rector_name": "LIC. JESÚS HERNÁNDEZ BRISEÑO",
+      "phone_number": "442 214 4941 ext 107",
+      "street_address": "AV. PIE DE LA CUESTA S/N",
+      "state_address": "QUERETARO",
+      "city_address": "UNIDAD NACIONAL",
+      "locality_address": "EPIGMENIO GONZALEZ FLORES",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.6437508,
+      "longitude_address": -100.4056708,
+      "education_level": "licenciatura",
+      "email": "karina.cobarruvias.2016@gmail.com karinna_co@hotmail.com",
+      "createdAt": "2022-02-11T17:01:06.340Z",
+      "updatedAt": "2022-02-12T16:04:33.591Z"
+    }
+  },
+  {
+    "id": 112,
+    "attributes": {
+      "name": "INSTITUTO TECNOLOGICO DE QUERÉTARO",
+      "gob_key": "22DIT0001M",
+      "rector_name": "MAXIMO PLIEGO DÍAZ",
+      "phone_number": "442-427-4400 ext 4404 o ext 4706  (plantel norte) Tel. 01 (442) 243 55 54\r\n01 (442) 243 55 92",
+      "street_address": "AVENIDA TECNOLOGICO Y ESCOBEDO",
+      "state_address": "QUERETARO",
+      "city_address": "CENTRO",
+      "locality_address": "CENTRO HISTORICO",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.5943228,
+      "longitude_address": -100.4051776,
+      "education_level": "licenciatura",
+      "email": "dse_becas@queretaro.tecnm.mx y dse@queretaro.tecnm.mx                              dse@mail.itq.edu.mx",
+      "createdAt": "2022-02-11T17:01:07.046Z",
+      "updatedAt": "2022-02-12T16:05:13.755Z"
+    }
+  },
+  {
+    "id": 113,
+    "attributes": {
+      "name": "UNIVERSIDAD AUTONOMA DE QUERÉTARO",
+      "gob_key": "220001",
+      "rector_name": "RECTOR GILBERTO HERRERA RUIZ",
+      "phone_number": "442- 192-1200",
+      "street_address": "HIDALGO S/N",
+      "state_address": "QUERETARO",
+      "city_address": "LAS CAMPANAS",
+      "locality_address": "CENTRO HISTORICO",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.5925064,
+      "longitude_address": -100.4094876,
+      "education_level": "licenciatura",
+      "email": "bienestaruaq@gmail.com",
+      "createdAt": "2022-02-11T17:01:07.789Z",
+      "updatedAt": "2022-02-12T16:06:39.974Z"
+    }
+  },
+  {
+    "id": 114,
+    "attributes": {
+      "name": "UNIVERSIDAD AERONAUTICA DE QUERÉTARO",
+      "gob_key": "22OSU0003W",
+      "rector_name": "ING. JORGE GUTIERREZ DE VELASCO RODRIGUEZ",
+      "phone_number": "442 101 6600",
+      "street_address": "CARRETERA ESTATAL 200  NO. 22154",
+      "state_address": "QUERETARO",
+      "city_address": "GALERAS",
+      "locality_address": "",
+      "municipality_address": "COLON",
+      "latitude_address": 20.6260292,
+      "longitude_address": -100.1874312,
+      "education_level": "licenciatura",
+      "email": "jesus.servin@unaq.edu.mx",
+      "createdAt": "2022-02-11T17:02:41.248Z",
+      "updatedAt": "2022-02-12T16:05:59.882Z"
+    }
+  },
+  {
+    "id": 115,
+    "attributes": {
+      "name": "UNIVERSIDAD NACIONAL AUTÓNOMA DE MEXICO",
+      "gob_key": "22USU0043H",
+      "rector_name": "RAUL GERARDO PAREDES GUERRERO",
+      "phone_number": "INES 442-192-6323 y 6320 (10-2 PM)",
+      "street_address": "PRIVADA JURIQUILLA",
+      "state_address": "QUERETARO",
+      "city_address": "JURIQUILLA",
+      "locality_address": "SANTA ROSA JAUREGUI",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.7020844,
+      "longitude_address": -100.4462508,
+      "education_level": "licenciatura",
+      "email": "sescolares_enesj@unam.mx",
+      "createdAt": "2022-02-11T17:02:41.518Z",
+      "updatedAt": "2022-02-12T16:07:18.855Z"
+    }
+  },
+  {
+    "id": 116,
+    "attributes": {
+      "name": "UNIVERSIDAD PEDAGÓGICA NACIONAL",
+      "gob_key": "UPN-22A",
+      "rector_name": "LIC. J GUADALUPE RIVAS GUZMAN",
+      "phone_number": "442 220.5240 / 442 220.5180, ext. 117-119",
+      "street_address": "PLAYA RINCON S/N",
+      "state_address": "QUERETARO",
+      "city_address": "DESARROLLO SAN PABLO",
+      "locality_address": "EPIGMENIO GONZALEZ FLORES",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.6262049,
+      "longitude_address": -100.4065463,
+      "education_level": "licenciatura",
+      "email": "escolares@upnqueretaro.edu.mx",
+      "createdAt": "2022-02-11T17:02:41.763Z",
+      "updatedAt": "2022-02-12T16:07:58.084Z"
+    }
+  },
+  {
+    "id": 117,
+    "attributes": {
+      "name": "UNIVERSIDAD POLITÉCNICA DE QUERÉTARO",
+      "gob_key": "22EPO0001J",
+      "rector_name": "DRA. MARHTA ELENA SOTO OBREGÓN",
+      "phone_number": "TELEFONO AREA DE BECAS: 442 101 9000 ext. 354",
+      "street_address": "CARRETERA ESTATAL  420 S/N",
+      "state_address": "QUERETARO",
+      "city_address": "EL ROSARIO",
+      "locality_address": "",
+      "municipality_address": "EL MARQUES",
+      "latitude_address": 20.5462443,
+      "longitude_address": -100.2748026,
+      "education_level": "licenciatura",
+      "email": "alma.hernandez@upq.mx  mirna.barron@upq.mx",
+      "createdAt": "2022-02-11T17:02:42.010Z",
+      "updatedAt": "2022-02-12T16:08:40.843Z"
+    }
+  },
+  {
+    "id": 118,
+    "attributes": {
+      "name": "UNIVERSIDAD POLITÉCNICA DE SANTA ROSA JAUREGUI",
+      "gob_key": "22MSU0081B",
+      "rector_name": "LIC. ENRIQUE GERARDO SOSA GUTIERREZ",
+      "phone_number": "442 196 1300 Ext. 111",
+      "street_address": "CALLE CARRETERA FEDERAL 57 QRO-SLP",
+      "state_address": "QUERETARO",
+      "city_address": "Parque Industrial Querétaro",
+      "locality_address": "SANTA ROSA JAUREGUI",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.8428627,
+      "longitude_address": -100.4330626,
+      "education_level": "licenciatura",
+      "email": "mgonzalez@upsrj.edu.mx",
+      "createdAt": "2022-02-11T17:02:42.259Z",
+      "updatedAt": "2022-02-12T16:09:16.022Z"
+    }
+  },
+  {
+    "id": 119,
+    "attributes": {
+      "name": "UNIVERSIDAD TECNOLÓGICA DE CORREGIDORA",
+      "gob_key": "22EUT0003E",
+      "rector_name": "MTRO. ARTURO ADOLFO VALLEJO CASANOVA",
+      "phone_number": "(442) 4830 070 Ext. 1013, 1012, 1011, 1026",
+      "street_address": "CARRETERA STA. BARBARA - CORONEO KM.11.2",
+      "state_address": "QUERETARO",
+      "city_address": "PRESA DE BRAVO",
+      "locality_address": "",
+      "municipality_address": "CORREGIDORA",
+      "latitude_address": 20.447812,
+      "longitude_address": -100.4271208,
+      "education_level": "licenciatura",
+      "email": "juan.ramirez@utcorregidora.edu.mx",
+      "createdAt": "2022-02-11T17:02:42.553Z",
+      "updatedAt": "2022-02-12T16:09:55.074Z"
+    }
+  },
+  {
+    "id": 120,
+    "attributes": {
+      "name": "UNIVERSIDAD TECNOLÓGICA DE QUERÉTARO",
+      "gob_key": "UTQ940610DY0",
+      "rector_name": "MTRO. AGUSTIN CASILLAS GUTIERREZ",
+      "phone_number": "442 209 6100 ext. 1316",
+      "street_address": "AV. PIE DE LA CUESTA #2501",
+      "state_address": "QUERETARO",
+      "city_address": "UNIDAD NACIONAL",
+      "locality_address": "EPIGMENIO GONZALEZ FLORES",
+      "municipality_address": "QUERETARO",
+      "latitude_address": 20.6539445,
+      "longitude_address": -100.4060938,
+      "education_level": "licenciatura",
+      "email": "blanca.landeros@uteq.edu.mx",
+      "createdAt": "2022-02-11T17:02:42.936Z",
+      "updatedAt": "2022-02-12T16:10:20.025Z"
+    }
+  }
+]
