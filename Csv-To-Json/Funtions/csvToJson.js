@@ -97,9 +97,9 @@ csv()
 
   
 // Routes of archives -> Licenciaturas Validados    ----------------------------------------------------------------------------------------------------
-
-const csvFilePath = path.join(__dirname, "./Csv/LicenciaturaValidados00.csv");
-const jsonFilePath = path.join(__dirname, "./Converter/LicenciaturaValidados00.json");
+/*
+const csvFilePath = path.join(__dirname, "../Csv/LicenciaturaValidados00.csv");
+const jsonFilePath = path.join(__dirname, "../Converter/LicenciaturaValidados00.json");
 const jsonFile = fs.readFileSync(csvFilePath, "latin1");
 
 // Funtion of make csv to json
@@ -115,4 +115,25 @@ csv()
     console.log("Archivo Creado");
   });
 
- 
+ */
+
+  // Routes of archives -> Preparatoria Validados    ----------------------------------------------------------------------------------------------------
+
+const csvFilePath = path.join(__dirname, "../Csv/PreparatoriaValidados00.csv");
+const jsonFilePath = path.join(__dirname, "../Converter/PreparatoriaValidados00.json");
+const jsonFile = fs.readFileSync(csvFilePath, "latin1");
+
+// Funtion of make csv to json
+
+csv()
+  .fromFile(csvFilePath)
+  .then((jsonObj) => {
+      // Priemero has que lea el latinn el archivo de excel para que no haya simbolos
+      // fs.writeFileSync(csvFilePath,jsonFile);
+
+      // segundo convierte el archivo a json
+      fs.writeFileSync(jsonFilePath, JSON.stringify(jsonObj, null, " "));
+    
+
+    console.log("Archivo Creado");
+  });

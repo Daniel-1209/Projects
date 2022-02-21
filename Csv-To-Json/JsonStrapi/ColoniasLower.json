@@ -198,14 +198,14 @@
   {
     "id": 15,
     "attributes": {
-      "name": "BARRIO EL TEPETATE",
+      "name": "LINDAVISTA BARRIO EL TEPETATE",
       "locality_key": "CH",
       "locality_name": "CENTRO HISTORICO",
       "postal_code_address": "",
       "latitude_address": 20.6031938,
       "longitude_address": -100.3957647,
       "createdAt": "2022-02-11T18:41:01.949Z",
-      "updatedAt": "2022-02-11T18:41:01.949Z",
+      "updatedAt": "2022-02-15T18:52:41.724Z",
       "publishedAt": "2022-02-11T18:41:01.947Z"
     }
   },
@@ -296,14 +296,14 @@
   {
     "id": 22,
     "attributes": {
-      "name": "CENTRO",
+      "name": "CENTRO HISTORICO",
       "locality_key": "CH",
       "locality_name": "CENTRO HISTORICO",
       "postal_code_address": "76000",
       "latitude_address": 20.6418908155482,
       "longitude_address": -99.8360273963499,
       "createdAt": "2022-02-11T18:41:04.214Z",
-      "updatedAt": "2022-02-11T18:41:04.214Z",
+      "updatedAt": "2022-02-15T18:54:49.440Z",
       "publishedAt": "2022-02-11T18:41:04.212Z"
     }
   },
@@ -1150,14 +1150,14 @@
   {
     "id": 83,
     "attributes": {
-      "name": "LAS HADAS",
+      "name": "FRACCIONAMIENTO LAS HADAS",
       "locality_key": "CH",
       "locality_name": "CENTRO HISTORICO",
       "postal_code_address": "76160",
       "latitude_address": 20.6038845418378,
       "longitude_address": -100.38505769829,
       "createdAt": "2022-02-11T18:41:30.385Z",
-      "updatedAt": "2022-02-11T18:41:30.385Z",
+      "updatedAt": "2022-02-15T18:47:56.512Z",
       "publishedAt": "2022-02-11T18:41:30.384Z"
     }
   },
@@ -1262,14 +1262,14 @@
   {
     "id": 91,
     "attributes": {
-      "name": "LOMA BONITA",
+      "name": "LOMA BONITA - ARQUITOS",
       "locality_key": "CH",
       "locality_name": "CENTRO HISTORICO",
       "postal_code_address": "76049",
       "latitude_address": 20.5874436677778,
       "longitude_address": -100.367288873826,
       "createdAt": "2022-02-11T18:41:32.517Z",
-      "updatedAt": "2022-02-11T18:41:32.517Z",
+      "updatedAt": "2022-02-15T18:46:56.385Z",
       "publishedAt": "2022-02-11T18:41:32.516Z"
     }
   },
@@ -1430,14 +1430,14 @@
   {
     "id": 103,
     "attributes": {
-      "name": "LOS MOLINOS 1RA",
+      "name": "FRACCIONAMIENTO LOS MOLINOS",
       "locality_key": "CH",
       "locality_name": "CENTRO HISTORICO",
       "postal_code_address": "76150",
       "latitude_address": 20.6018279,
       "longitude_address": -100.4122654,
       "createdAt": "2022-02-11T18:41:36.607Z",
-      "updatedAt": "2022-02-11T18:41:36.607Z",
+      "updatedAt": "2022-02-15T18:47:26.185Z",
       "publishedAt": "2022-02-11T18:41:36.606Z"
     }
   },
@@ -3054,14 +3054,14 @@
   {
     "id": 219,
     "attributes": {
-      "name": "CARLOS MARIA BUSTAMANTE",
+      "name": "CARLOS MA. DE BUSTAMANTE",
       "locality_key": "EPG",
       "locality_name": "EPIGMENIO GONZALEZ FLORES",
       "postal_code_address": "76147",
       "latitude_address": 20.62754,
       "longitude_address": -100.408623,
       "createdAt": "2022-02-11T18:42:13.464Z",
-      "updatedAt": "2022-02-11T18:42:13.464Z",
+      "updatedAt": "2022-02-15T18:34:42.149Z",
       "publishedAt": "2022-02-11T18:42:13.463Z"
     }
   },
@@ -5798,14 +5798,14 @@
   {
     "id": 415,
     "attributes": {
-      "name": "LOS SABINOS",
+      "name": "EL SABINOS",
       "locality_key": "EPG",
       "locality_name": "EPIGMENIO GONZALEZ FLORES",
       "postal_code_address": "76148",
       "latitude_address": 20.6349914450489,
       "longitude_address": -100.401961625971,
       "createdAt": "2022-02-11T18:43:23.715Z",
-      "updatedAt": "2022-02-11T18:43:23.715Z",
+      "updatedAt": "2022-02-15T18:46:17.641Z",
       "publishedAt": "2022-02-11T18:43:23.714Z"
     }
   },
@@ -7310,14 +7310,14 @@
   {
     "id": 523,
     "attributes": {
-      "name": "SAN PABLO INFONAVIT III",
+      "name": "SAN PABLO INFONAVIT III ETAPA",
       "locality_key": "EPG",
       "locality_name": "EPIGMENIO GONZALEZ FLORES",
       "postal_code_address": "",
       "latitude_address": 20.627761,
       "longitude_address": -100.4154254,
       "createdAt": "2022-02-11T18:43:58.805Z",
-      "updatedAt": "2022-02-11T18:43:58.805Z",
+      "updatedAt": "2022-02-15T18:37:39.344Z",
       "publishedAt": "2022-02-11T18:43:58.804Z"
     }
   },
@@ -7884,14 +7884,14 @@
   {
     "id": 564,
     "attributes": {
-      "name": "VILLAS DE SANTIAGO",
+      "name": "FRACCIONAMIENTO VILLAS DE SANTIAGO DE QUERETARO",
       "locality_key": "EPG",
       "locality_name": "EPIGMENIO GONZALEZ FLORES",
       "postal_code_address": "76148",
       "latitude_address": 20.6578004093204,
       "longitude_address": -100.39488649308,
       "createdAt": "2022-02-11T18:44:11.956Z",
-      "updatedAt": "2022-02-11T18:44:11.956Z",
+      "updatedAt": "2022-02-15T18:55:25.236Z",
       "publishedAt": "2022-02-11T18:44:11.955Z"
     }
   },
@@ -9662,14 +9662,14 @@
   {
     "id": 691,
     "attributes": {
-      "name": "LA AURORA",
+      "name": "AURORA",
       "locality_key": "FCP",
       "locality_name": "FELIPE CARRILLO PUERTO",
       "postal_code_address": "76137",
       "latitude_address": 20.5965412133157,
       "longitude_address": -100.452228243654,
       "createdAt": "2022-02-11T18:47:04.126Z",
-      "updatedAt": "2022-02-11T18:47:04.126Z",
+      "updatedAt": "2022-02-15T18:36:26.713Z",
       "publishedAt": "2022-02-11T18:47:04.125Z"
     }
   },
@@ -10136,6 +10136,20 @@
     }
   },
   {
+    "id": 725,
+    "attributes": {
+      "name": "MOMPANI",
+      "locality_key": "FCP",
+      "locality_name": "FELIPE CARRILLO PUERTO",
+      "postal_code_address": "76229",
+      "latitude_address": 20.6909306618781,
+      "longitude_address": -100.50662568234,
+      "createdAt": "2022-02-11T18:47:16.286Z",
+      "updatedAt": "2022-02-11T18:47:16.286Z",
+      "publishedAt": "2022-02-11T18:47:16.285Z"
+    }
+  },
+  {
     "id": 726,
     "attributes": {
       "name": "NUEVO CARRILLO",
@@ -10217,6 +10231,20 @@
       "createdAt": "2022-02-11T18:47:17.941Z",
       "updatedAt": "2022-02-11T18:47:17.941Z",
       "publishedAt": "2022-02-11T18:47:17.940Z"
+    }
+  },
+  {
+    "id": 732,
+    "attributes": {
+      "name": "PASEOS DE SAN MIGUEL",
+      "locality_key": "FCP",
+      "locality_name": "FELIPE CARRILLO PUERTO",
+      "postal_code_address": "76100",
+      "latitude_address": 20.6238232,
+      "longitude_address": -100.4427207,
+      "createdAt": "2022-02-11T18:47:18.205Z",
+      "updatedAt": "2022-02-11T18:47:18.205Z",
+      "publishedAt": "2022-02-11T18:47:18.204Z"
     }
   },
   {
@@ -11832,14 +11860,14 @@
   {
     "id": 848,
     "attributes": {
-      "name": "COLINAS DEL PONIENTE",
+      "name": "FRACCIONAMIENTO COLINAS DEL PONIENTE",
       "locality_key": "FOS",
       "locality_name": "FELIX OSORES SOTOMAYOR",
       "postal_code_address": "76116",
       "latitude_address": 20.6277771799353,
       "longitude_address": -100.467145641961,
       "createdAt": "2022-02-11T18:49:52.405Z",
-      "updatedAt": "2022-02-11T18:49:52.405Z",
+      "updatedAt": "2022-02-15T18:38:49.822Z",
       "publishedAt": "2022-02-11T18:49:52.404Z"
     }
   },
@@ -12404,6 +12432,20 @@
     }
   },
   {
+    "id": 889,
+    "attributes": {
+      "name": "EL ROMERILLAL  III",
+      "locality_key": "FOS",
+      "locality_name": "FELIX OSORES SOTOMAYOR",
+      "postal_code_address": "76118",
+      "latitude_address": 20.6487098,
+      "longitude_address": -100.4642444,
+      "createdAt": "2022-02-11T18:50:05.140Z",
+      "updatedAt": "2022-02-11T18:50:05.140Z",
+      "publishedAt": "2022-02-11T18:50:05.138Z"
+    }
+  },
+  {
     "id": 890,
     "attributes": {
       "name": "EL ROMERILLAL  IV",
@@ -12756,14 +12798,14 @@
   {
     "id": 915,
     "attributes": {
-      "name": "FRANCISCO JAVIER MINA",
+      "name": "FRACCIONAMIENTO FRANCISCO JAVIER MINA",
       "locality_key": "FOS",
       "locality_name": "FELIX OSORES SOTOMAYOR",
       "postal_code_address": "76117",
       "latitude_address": 20.6298322842535,
       "longitude_address": -100.45237885065,
       "createdAt": "2022-02-11T18:50:12.900Z",
-      "updatedAt": "2022-02-11T18:50:12.900Z",
+      "updatedAt": "2022-02-15T18:54:02.364Z",
       "publishedAt": "2022-02-11T18:50:12.899Z"
     }
   },
@@ -12924,28 +12966,28 @@
   {
     "id": 927,
     "attributes": {
-      "name": "GEOPLAZAS",
+      "name": "FRACCIONAMIENTO GEOPLAZAS",
       "locality_key": "FOS",
       "locality_name": "FELIX OSORES SOTOMAYOR",
       "postal_code_address": "76116",
       "latitude_address": 20.6270626,
       "longitude_address": -100.4572185,
       "createdAt": "2022-02-11T18:50:16.492Z",
-      "updatedAt": "2022-02-11T18:50:16.492Z",
+      "updatedAt": "2022-02-15T18:54:26.674Z",
       "publishedAt": "2022-02-11T18:50:16.491Z"
     }
   },
   {
     "id": 928,
     "attributes": {
-      "name": "GEOPLAZAS VILLAS I Y II",
+      "name": "GEO PLAZAS VILLAS I Y II",
       "locality_key": "FOS",
       "locality_name": "FELIX OSORES SOTOMAYOR",
       "postal_code_address": "76116",
       "latitude_address": 20.6250596,
       "longitude_address": -100.4574341,
       "createdAt": "2022-02-11T18:50:16.811Z",
-      "updatedAt": "2022-02-11T18:50:16.811Z",
+      "updatedAt": "2022-02-15T18:48:25.518Z",
       "publishedAt": "2022-02-11T18:50:16.810Z"
     }
   },
@@ -13036,14 +13078,14 @@
   {
     "id": 935,
     "attributes": {
-      "name": "INSURGENTES",
+      "name": "FRACCIONAMIENTO INSURGENTES",
       "locality_key": "FOS",
       "locality_name": "FELIX OSORES SOTOMAYOR",
       "postal_code_address": "76117",
       "latitude_address": 20.6309388404454,
       "longitude_address": -100.446318581164,
       "createdAt": "2022-02-11T18:50:19.178Z",
-      "updatedAt": "2022-02-11T18:50:19.178Z",
+      "updatedAt": "2022-02-15T18:45:30.305Z",
       "publishedAt": "2022-02-11T18:50:19.177Z"
     }
   },
@@ -13148,28 +13190,28 @@
   {
     "id": 943,
     "attributes": {
-      "name": "JOSEFA ORTIZ DE DOMINGUEZ II",
+      "name": "JOSEFA O. DE DOMINGUEZ II",
       "locality_key": "FOS",
       "locality_name": "FELIX OSORES SOTOMAYOR",
       "postal_code_address": "76110",
       "latitude_address": 20.633035703866,
       "longitude_address": -100.45216836198,
       "createdAt": "2022-02-11T18:50:21.435Z",
-      "updatedAt": "2022-02-11T18:50:21.435Z",
+      "updatedAt": "2022-02-15T18:33:59.179Z",
       "publishedAt": "2022-02-11T18:50:21.434Z"
     }
   },
   {
     "id": 944,
     "attributes": {
-      "name": "JOSEFA ORTIZ DE DOMINGUEZ III",
+      "name": "JOSEFA O. DE DOMINGUEZ III",
       "locality_key": "FOS",
       "locality_name": "FELIX OSORES SOTOMAYOR",
       "postal_code_address": "76110",
       "latitude_address": 20.6355399346489,
       "longitude_address": -100.444513799109,
       "createdAt": "2022-02-11T18:50:21.655Z",
-      "updatedAt": "2022-02-11T18:50:21.655Z",
+      "updatedAt": "2022-02-15T18:33:00.669Z",
       "publishedAt": "2022-02-11T18:50:21.655Z"
     }
   },
@@ -13428,28 +13470,28 @@
   {
     "id": 963,
     "attributes": {
-      "name": "LA INDUSTRIAL",
+      "name": "FRACCIONAMIENTO COLONIA INDUSTRIAL",
       "locality_key": "FOS",
       "locality_name": "FELIX OSORES SOTOMAYOR",
       "postal_code_address": "76130",
       "latitude_address": 20.6188571,
       "longitude_address": -100.428769,
       "createdAt": "2022-02-11T18:50:27.466Z",
-      "updatedAt": "2022-02-11T18:50:27.466Z",
+      "updatedAt": "2022-02-15T18:50:15.569Z",
       "publishedAt": "2022-02-11T18:50:27.464Z"
     }
   },
   {
     "id": 964,
     "attributes": {
-      "name": "LA LOMA",
+      "name": "FRACCIONAMIENTO LA LOMA",
       "locality_key": "FOS",
       "locality_name": "FELIX OSORES SOTOMAYOR",
       "postal_code_address": "76168",
       "latitude_address": 20.6424805,
       "longitude_address": -100.4698656,
       "createdAt": "2022-02-11T18:50:27.859Z",
-      "updatedAt": "2022-02-11T18:50:27.859Z",
+      "updatedAt": "2022-02-15T18:51:31.103Z",
       "publishedAt": "2022-02-11T18:50:27.852Z"
     }
   },
@@ -13622,6 +13664,20 @@
     }
   },
   {
+    "id": 977,
+    "attributes": {
+      "name": "LA RESERVA VALLE DE JURIQUILLA",
+      "locality_key": "FOS",
+      "locality_name": "FELIX OSORES SOTOMAYOR",
+      "postal_code_address": "",
+      "latitude_address": 20.6870076,
+      "longitude_address": -100.4440438,
+      "createdAt": "2022-02-11T18:50:31.838Z",
+      "updatedAt": "2022-02-11T18:50:31.838Z",
+      "publishedAt": "2022-02-11T18:50:31.836Z"
+    }
+  },
+  {
     "id": 978,
     "attributes": {
       "name": "LA RICA",
@@ -13666,14 +13722,14 @@
   {
     "id": 981,
     "attributes": {
-      "name": "LAS AZUCENAS",
+      "name": "AZUCENAS",
       "locality_key": "FOS",
       "locality_name": "FELIX OSORES SOTOMAYOR",
       "postal_code_address": "76116",
       "latitude_address": 20.6333790724036,
       "longitude_address": -100.471804212541,
       "createdAt": "2022-02-11T18:50:32.924Z",
-      "updatedAt": "2022-02-11T18:50:32.924Z",
+      "updatedAt": "2022-02-15T18:50:57.970Z",
       "publishedAt": "2022-02-11T18:50:32.922Z"
     }
   },
@@ -14086,14 +14142,14 @@
   {
     "id": 1011,
     "attributes": {
-      "name": "MISION FUNDADORES   I",
+      "name": "FRACCIONAMIENTO LOS FUNDADORES",
       "locality_key": "FOS",
       "locality_name": "FELIX OSORES SOTOMAYOR",
       "postal_code_address": "76117",
       "latitude_address": 20.6254154,
       "longitude_address": -100.454057,
       "createdAt": "2022-02-11T18:50:41.984Z",
-      "updatedAt": "2022-02-11T18:50:41.984Z",
+      "updatedAt": "2022-02-15T18:49:50.793Z",
       "publishedAt": "2022-02-11T18:50:41.983Z"
     }
   },
@@ -14198,14 +14254,14 @@
   {
     "id": 1019,
     "attributes": {
-      "name": "PARQUE SANTIAGO",
+      "name": "FRACCIONAMIENTO PARQUE SANTIAGO",
       "locality_key": "FOS",
       "locality_name": "FELIX OSORES SOTOMAYOR",
       "postal_code_address": "76118",
       "latitude_address": 20.6288574,
       "longitude_address": -100.4573708,
       "createdAt": "2022-02-11T18:50:44.754Z",
-      "updatedAt": "2022-02-11T18:50:44.754Z",
+      "updatedAt": "2022-02-15T18:31:19.808Z",
       "publishedAt": "2022-02-11T18:50:44.753Z"
     }
   },
@@ -14884,14 +14940,14 @@
   {
     "id": 1068,
     "attributes": {
-      "name": "SATELITE SECCION COSMOS",
+      "name": "COSMOS (SATELITE)",
       "locality_key": "FOS",
       "locality_name": "FELIX OSORES SOTOMAYOR",
       "postal_code_address": "76110",
       "latitude_address": 20.6338515,
       "longitude_address": -100.4484368,
       "createdAt": "2022-02-11T18:50:59.017Z",
-      "updatedAt": "2022-02-11T18:50:59.017Z",
+      "updatedAt": "2022-02-15T18:40:47.434Z",
       "publishedAt": "2022-02-11T18:50:59.016Z"
     }
   },
@@ -15134,6 +15190,20 @@
     }
   },
   {
+    "id": 1086,
+    "attributes": {
+      "name": "VALLE COMERCIAL",
+      "locality_key": "FOS",
+      "locality_name": "FELIX OSORES SOTOMAYOR",
+      "postal_code_address": "",
+      "latitude_address": 20.6401732,
+      "longitude_address": -100.4785124,
+      "createdAt": "2022-02-11T18:51:03.920Z",
+      "updatedAt": "2022-02-11T18:51:03.920Z",
+      "publishedAt": "2022-02-11T18:51:03.919Z"
+    }
+  },
+  {
     "id": 1087,
     "attributes": {
       "name": "VALLE DE JURIQUILLA II",
@@ -15332,14 +15402,14 @@
   {
     "id": 1101,
     "attributes": {
-      "name": "ARTE MEXICANO",
+      "name": "ARTE MEXICANO -SCT",
       "locality_key": "JVH",
       "locality_name": "JOSEFA VERGARA Y HERNANDEZ",
       "postal_code_address": "76085",
       "latitude_address": 20.558299087353,
       "longitude_address": -100.387181902211,
       "createdAt": "2022-02-11T18:51:08.657Z",
-      "updatedAt": "2022-02-11T18:51:08.657Z",
+      "updatedAt": "2022-02-15T18:52:06.274Z",
       "publishedAt": "2022-02-11T18:51:08.656Z"
     }
   },
@@ -16018,14 +16088,14 @@
   {
     "id": 1150,
     "attributes": {
-      "name": "FRATERNIDAD DE SANTIAGO",
+      "name": "FRACCIONAMIENTO FRATERNIDAD DE SANTIAGO",
       "locality_key": "JVH",
       "locality_name": "JOSEFA VERGARA Y HERNANDEZ",
       "postal_code_address": "76085",
       "latitude_address": 20.5559546212669,
       "longitude_address": -100.385445564948,
       "createdAt": "2022-02-11T18:51:22.858Z",
-      "updatedAt": "2022-02-11T18:51:22.858Z",
+      "updatedAt": "2022-02-15T18:49:24.268Z",
       "publishedAt": "2022-02-11T18:51:22.857Z"
     }
   },
@@ -17306,14 +17376,14 @@
   {
     "id": 1242,
     "attributes": {
-      "name": "VISTA ALEGRE 3A. SECCION",
+      "name": "CONJUNTO HABITACIONAL VISTA ALEGRE 3A. SECCION",
       "locality_key": "JVH",
       "locality_name": "JOSEFA VERGARA Y HERNANDEZ",
       "postal_code_address": "76074",
       "latitude_address": 20.5628285941842,
       "longitude_address": -100.376940684394,
       "createdAt": "2022-02-11T18:53:13.343Z",
-      "updatedAt": "2022-02-11T18:53:13.343Z",
+      "updatedAt": "2022-02-15T18:44:19.273Z",
       "publishedAt": "2022-02-11T18:53:13.341Z"
     }
   },
@@ -17768,14 +17838,14 @@
   {
     "id": 1275,
     "attributes": {
-      "name": "CENTRO - SANTA ROSA JAUREGUI",
+      "name": "CENTRO SANTA ROSA JAUREGUI",
       "locality_key": "SRJ",
       "locality_name": "SANTA ROSA JAUREGUI",
       "postal_code_address": "76220",
       "latitude_address": 20.7414547,
       "longitude_address": -100.447453,
       "createdAt": "2022-02-11T18:53:25.964Z",
-      "updatedAt": "2022-02-11T18:53:25.964Z",
+      "updatedAt": "2022-02-15T18:35:50.814Z",
       "publishedAt": "2022-02-11T18:53:25.960Z"
     }
   },
@@ -18286,14 +18356,14 @@
   {
     "id": 1312,
     "attributes": {
-      "name": "FRACCIONAMIENTO REAL DE JURIQUILLA",
+      "name": "FRACC. REAL DE JURIQUILLA",
       "locality_key": "SRJ",
       "locality_name": "SANTA ROSA JAUREGUI",
       "postal_code_address": "",
       "latitude_address": 20.7446358,
       "longitude_address": -100.4719736,
       "createdAt": "2022-02-11T18:53:38.260Z",
-      "updatedAt": "2022-02-11T18:53:38.260Z",
+      "updatedAt": "2022-02-15T18:48:52.064Z",
       "publishedAt": "2022-02-11T18:53:38.259Z"
     }
   },
@@ -19364,14 +19434,14 @@
   {
     "id": 1389,
     "attributes": {
-      "name": "PIE DE GALLO",
+      "name": "COMUNIDAD PIE DE GALLO",
       "locality_key": "SRJ",
       "locality_name": "SANTA ROSA JAUREGUI",
       "postal_code_address": "76224",
       "latitude_address": 20.789409946447,
       "longitude_address": -100.490919119119,
       "createdAt": "2022-02-11T18:54:05.771Z",
-      "updatedAt": "2022-02-11T18:54:05.771Z",
+      "updatedAt": "2022-02-15T18:42:27.883Z",
       "publishedAt": "2022-02-11T18:54:05.769Z"
     }
   },
